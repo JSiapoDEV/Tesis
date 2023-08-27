@@ -1,0 +1,855 @@
+
+                                               UNIVERSIDAD NACIONAL DE TRUJILLO - UNT
+ OF.DE TECNOLOG.DE LA INFOR.                    EXAMEN DE ADMISION ORDINARIO 2023-I                                        Pag.  1
+       * AREA P.A.D.*                           QUINTO GRADO DE EDUCACION SECUNDARIA                                       21/10/2022
+                                       RESULTADOS POR ESCUELA ACADEMICO PROFESIONAL - AREA - A
+ ======================================================================================================================================
+ OR-  CARNET      APELLIDOS  y  NOMBRES                PTJE APT    PTJE    PUNTAJE     ULTIMO          ESCUELA               ALCANZA
+ DEN                                                    ACADEM    CONOC.    TOTAL    INGRESANTE                              VACANTE
+ ======================================================================================================================================
+ 0001 049146 MEDINA DIAZ KEVIN EDUARDO                  41.707    57.076    98.783      88.646      CCAS.BIOLOGICAS             SI
+ 0002 025135 LEYVA CRUZ ALONDRA SILVANA                 41.707    50.975    92.682      88.646      CCAS.BIOLOGICAS             SI
+ 0003 077118 FLORES DIOS PILAR                          39.675    33.628    73.303      88.646      CCAS.BIOLOGICAS             NO
+ 0004 070128 GARCIA PEREZ RODRIGO JAIR                  49.853    22.427    72.280      88.646      CCAS.BIOLOGICAS             NO
+ 0005 034579 ROMERO SANCHEZ DANIEL ISAID                25.433    45.880    71.313      88.646      CCAS.BIOLOGICAS             NO
+ 0006 071922 CERDAN CRUZADO LUCERO NOELIA               25.421    37.702    63.123      88.646      CCAS.BIOLOGICAS             NO
+ 0007 015218 ZAVALETA CEDEÑO GREGORY JOSE               17.287    37.722    55.009      88.646      CCAS.BIOLOGICAS             NO
+ 0008 029069 LUJAN ABANTO DANIEL BENJAMIN               37.637     7.132    44.769      88.646      CCAS.BIOLOGICAS             NO
+ 0009 066012 SALVADOR HORNA SOL IRENE DE LOS ANGELES    25.433    18.343    43.776      88.646      CCAS.BIOLOGICAS             NO
+ 0010 012168 YUPANQUI AGUILAR VANERY BRIGITH            28.484    15.285    43.769      88.646      CCAS.BIOLOGICAS             NO
+ 0011 060065 ORTIZ ALFARO ANA SOFIA                     26.446    17.312    43.758      88.646      CCAS.BIOLOGICAS             NO
+ 0012 034422 ACUÑA ASENCIO FATIMA BELEN                 17.293    23.438    40.731      88.646      CCAS.BIOLOGICAS             NO
+ 0013 064792 SAGASTEGUI VALLEJOS MARIA JOSE             26.446    14.259    40.705      88.646      CCAS.BIOLOGICAS             NO
+ 0014 035369 ROSAS CARRANZA JITXIA JOHANIE              15.255    19.354    34.609      88.646      CCAS.BIOLOGICAS             NO
+ 0015 008978 COLLAZOS CARDENAS MARIA ISABEL             23.395     9.174    32.569      88.646      CCAS.BIOLOGICAS             NO
+ 0016 014881 AGUILAR CABALLERO AZUMI EILEN              15.255    15.285    30.540      88.646      CCAS.BIOLOGICAS             NO
+ 0017 017215 OLIVARES GOMEZ MIRLEY ABIGAIL DEL ROSARI   18.300     8.138    26.438      88.646      CCAS.BIOLOGICAS             NO
+ 0018 074296 ROCHA MONTOYA NURIA ESTEFANIA              15.249     9.159    24.408      88.646      CCAS.BIOLOGICAS             NO
+ 0019 004477 VERAMENDI OLORTIGA ANGELA GABRIELA         13.223     9.164    22.387      88.646      CCAS.BIOLOGICAS             NO
+ 0020 055251 SILVA CARBONELL CAROLINA YAJAIRA           24.408    -2.057    22.351      88.646      CCAS.BIOLOGICAS             NO
+
+
+
+ 0001 028168 SANCHEZ TIRADO ALLISON NICOLE              49.853    70.349   120.202     111.008      ENFERMERIA                  SI
+ 0002 056587 DIAZ CUBAS MARTHA VICTORIA                 36.618    78.512   115.130     111.008      ENFERMERIA                  SI
+ 0003 028076 RIOS ROJAS ARDIS HELEN                     25.409    72.351    97.760     111.008      ENFERMERIA                  NO
+ 0004 001336 ALVARADO NAMOC JOSE JONATAN                35.605    57.086    92.691     111.008      ENFERMERIA                  NO
+ 0005 003458 ASENCIO CARRERA GISSEL FRANCINE            37.637    52.001    89.638     111.008      ENFERMERIA                  NO
+ 0006 016309 CARRION SALAZAR KATHERIN VALERIA           37.631    37.692    75.323     111.008      ENFERMERIA                  NO
+ 0007 055987 RODRIGUEZ RODRIGUEZ CYNTHIA JACKELINE      40.694    30.570    71.264     111.008      ENFERMERIA                  NO
+ 0008 007853 PEREZ ALTAMIRANO MARIFE CARLINA            25.421    39.724    65.145     111.008      ENFERMERIA                  NO
+ 0009 032139 CABANILLAS ORUNA DANNA XIOMARA             26.440    35.665    62.105     111.008      ENFERMERIA                  NO
+ 0010 044046 SANCHEZ LOZANO MAIRA                       28.478    32.612    61.090     111.008      ENFERMERIA                  NO
+ 0011 042969 MOZO VARON DARLIN MIRELLY                  31.535    25.490    57.025     111.008      ENFERMERIA                  NO
+ 0012 026073 CALLE CHAVEZ VALERIA NATALIA               30.510    26.486    56.996     111.008      ENFERMERIA                  NO
+ 0013 036298 QUISPE REVILLA DIEGO LEANDRO               21.357    31.591    52.948     111.008      ENFERMERIA                  NO
+ 0014 030272 LEON FLORES JUDITH ESMERALDA               24.396    27.482    51.878     111.008      ENFERMERIA                  NO
+ 0015 036895 ELIZALDE PAREDES ROSITA LETICIA            21.357    29.549    50.906     111.008      ENFERMERIA                  NO
+ 0016 006996 ACEVEDO CERNA JOSHTIN ELIAS                15.231    35.630    50.861     111.008      ENFERMERIA                  NO
+ 0017 008689 QUEVEDO FLORIAN FATIMA BRISEIDA            10.160    39.744    49.904     111.008      ENFERMERIA                  NO
+ 0018 021085 LLAMOGA GALLARDO DANNA NICOLE              26.434    22.402    48.836     111.008      ENFERMERIA                  NO
+ 0019 016687 MENDOZA ALVAREZ XIOMARA BRIJIT             21.357    26.486    47.843     111.008      ENFERMERIA                  NO
+ 0020 034797 VELASQUEZ GAMARRA ARIADNE SARAI            13.217    33.638    46.855     111.008      ENFERMERIA                  NO
+ 0021 066377 CHAFLOQUE ALVAREZ RUTH GERALDINE           21.351    24.439    45.790     111.008      ENFERMERIA                  NO
+ 0022 004829 GUZMAN GUEVARA BIANCA MERARY               12.198    32.617    44.815     111.008      ENFERMERIA                  NO
+ 0023 019053 ALCANTARA UGAZ GREICY FABIANA              26.446    17.312    43.758     111.008      ENFERMERIA                  NO
+ 0024 000228 MARQUINA MEZA SANDY SELENE                  9.147    30.585    39.732     111.008      ENFERMERIA                  NO
+ 0025 062105 ROSAS ALAYO LEISY JUNELY                   19.331    20.395    39.726     111.008      ENFERMERIA                  NO
+ 0026 042996 GIL CRUZADO ISABEL YOVANA                  10.166    26.496    36.662     111.008      ENFERMERIA                  NO
+ 0027 033532 BOBADILLA VARGAS FATIMA DEL PILAR          18.300    18.333    36.633     111.008      ENFERMERIA                  NO
+                                               UNIVERSIDAD NACIONAL DE TRUJILLO - UNT
+ OF.DE TECNOLOG.DE LA INFOR.                    EXAMEN DE ADMISION ORDINARIO 2023-I                                        Pag.  2
+       * AREA P.A.D.*                           QUINTO GRADO DE EDUCACION SECUNDARIA                                       21/10/2022
+                                       RESULTADOS POR ESCUELA ACADEMICO PROFESIONAL - AREA - A
+ ======================================================================================================================================
+ OR-  CARNET      APELLIDOS  y  NOMBRES                PTJE APT    PTJE    PUNTAJE     ULTIMO          ESCUELA               ALCANZA
+ DEN                                                    ACADEM    CONOC.    TOTAL    INGRESANTE                              VACANTE
+ ======================================================================================================================================
+ 0028 031885 BON SANCHEZ ROBERTO CARLOS                 33.573     3.043    36.616     111.008      ENFERMERIA                  NO
+ 0029 026727 DILAS BALAREZO ROSA ERNESTINA              10.142    25.430    35.572     111.008      ENFERMERIA                  NO
+ 0030 005454 MOSTACERO PEREZ ARELY ELIZAMAR             -3.075    36.676    33.601     111.008      ENFERMERIA                  NO
+ 0031 066319 VASQUEZ GUEVARA GISSELA THAIT               6.072    24.419    30.491     111.008      ENFERMERIA                  NO
+ 0032 075873 VILLAR BELTRAN TIARA MADELEY               12.192    17.307    29.499     111.008      ENFERMERIA                  NO
+ 0033 017536 VASQUEZ TORRES ALISON GIANELLA             15.243    14.239    29.482     111.008      ENFERMERIA                  NO
+ 0034 002669 GONZALES YUPANQUI MARTHA DAYANNA            9.129    16.276    25.405     111.008      ENFERMERIA                  NO
+ 0035 064463 GRIJALVA CARDENAS ZUMMI ALINE              20.320     5.030    25.350     111.008      ENFERMERIA                  NO
+ 0036 008817 RAMOS RUIZ NADIA ANAMILE                    9.135    15.260    24.395     111.008      ENFERMERIA                  NO
+ 0037 062615 CAMPOS VASQUEZ BEATRIZ KANNETH             12.180    11.191    23.371     111.008      ENFERMERIA                  NO
+ 0038 023966 VEGA PONCE MARYORI NAHOMI                   9.141    12.222    21.363     111.008      ENFERMERIA                  NO
+ 0039 062939 VENTURA VALENCIA INGRID GREYS              -1.031    12.232    11.201     111.008      ENFERMERIA                  NO
+ 0040 044733 NAMAY MATUTE ROSA VIRGINIA                 -0.036     5.030     4.994     111.008      ENFERMERIA                  NO
+ 0041 049172 CABALLERO CABRERA ESTHER VANESSA            0.000     0.000     0.000     111.008      ENFERMERIA               AUSENTE
+ 0042 044998 PAREDES QUSIPE MARIA ABIGAIL                6.096   -15.325    -9.229     111.008      ENFERMERIA                  NO
+
+
+
+ 0001 014862 GARCIA BOCANEGRA LEILA DAIANA              70.203   136.639   206.842      86.557      FARMACIA y BBQQ.            SI
+ 0002 017518 SANCHEZ RAMOS NICOLAS ISRAEL               49.853    92.791   142.644      86.557      FARMACIA y BBQQ.            SI
+ 0003 029045 MIRANDA VIGO GADIEL NAIN                   27.459   108.076   135.535      86.557      FARMACIA y BBQQ.            SI
+ 0004 061386 BARRETO MURILLO CARLOS JAIME               50.872    43.843    94.715      86.557      FARMACIA y BBQQ.            NO
+ 0005 021862 SAAVEDRA ZAMORA ERIN MICHELLE              36.618    44.834    81.452      86.557      FARMACIA y BBQQ.            NO
+ 0006 032002 HUAMAN VASQUEZ BRYAN RAUL                  35.611    44.849    80.460      86.557      FARMACIA y BBQQ.            NO
+ 0007 075762 ROJAS GUARNIZ JORDAN JAZIEL                38.656    39.739    78.395      86.557      FARMACIA y BBQQ.            NO
+ 0008 062345 MEDINA MEDINA YANELA ESTEFANY              15.231    61.130    76.361      86.557      FARMACIA y BBQQ.            NO
+ 0009 036878 ZAVALA AVALOS ALEXIS GABRIEL               37.631    38.718    76.349      86.557      FARMACIA y BBQQ.            NO
+ 0010 017131 MILLA AVALOS KAMILA PATRICIA               17.293    53.012    70.305      86.557      FARMACIA y BBQQ.            NO
+ 0011 057066 PACHECO LOPEZ KAYLE CECILIA                32.554    36.706    69.260      86.557      FARMACIA y BBQQ.            NO
+ 0012 027778 PAREDES ESPINOZA ANYELI BRIGITH            41.713    26.506    68.219      86.557      FARMACIA y BBQQ.            NO
+ 0013 022108 GAMARRA GALVAN NEOR ELIAS                  28.472    39.739    68.211      86.557      FARMACIA y BBQQ.            NO
+ 0014 030462 PELAEZ MALASQUEZ ADRIANO SEBASTIAN         31.535    35.680    67.215      86.557      FARMACIA y BBQQ.            NO
+ 0015 050953 VILLACORTA GUEVARA ANDRES DAVID            16.256    50.940    67.196      86.557      FARMACIA y BBQQ.            NO
+ 0016 015491 ESCOBEDO DESPOSORIO ETTY MAYTE             22.376    39.749    62.125      86.557      FARMACIA y BBQQ.            NO
+ 0017 042727 NUREÑA MERINO FERNANDO VALENTINO           27.459    33.618    61.077      86.557      FARMACIA y BBQQ.            NO
+ 0018 046683 SALAZAR HUAMAN ALEXANDRA NICOLE            31.535    27.517    59.052      86.557      FARMACIA y BBQQ.            NO
+ 0019 014355 JARA AZCARATE STEFANY MARIEL               26.446    28.538    54.984      86.557      FARMACIA y BBQQ.            NO
+ 0020 056843 GAMARRA CIEZA CESAR EDUARDO                21.363    32.622    53.985      86.557      FARMACIA y BBQQ.            NO
+ 0021 010551 COLLANTES HOYOS BRAYAN CESAR               19.307    31.576    50.883      86.557      FARMACIA y BBQQ.            NO
+ 0022 004987 LOAYZA MENDOCILLA PIERO ARON               22.376    24.464    46.840      86.557      FARMACIA y BBQQ.            NO
+ 0023 075163 DIONICIO RAMIREZ KEISY NICOLE              21.357    24.469    45.826      86.557      FARMACIA y BBQQ.            NO
+ 0024 052258 SANDOVAL BAUTISTA KEIKO YARUMI             39.675     6.101    45.776      86.557      FARMACIA y BBQQ.            NO
+ 0025 050584 MOLINA PALACIOS ANGELINA DENISE             7.109    37.722    44.831      86.557      FARMACIA y BBQQ.            NO
+ 0026 057828 CHIRINOS VARGAS DANIA JAVIERA              11.185    32.622    43.807      86.557      FARMACIA y BBQQ.            NO
+ 0027 016763 DIAZ ORIBE KAORI HAYLET                    22.376    20.375    42.751      86.557      FARMACIA y BBQQ.            NO
+ 0028 058898 DIAZ SANCHEZ MARIA ALEJANDRA               25.433    15.285    40.718      86.557      FARMACIA y BBQQ.            NO
+ 0029 029832 BRICEÑO AGUILAR JOSE ALEXANDER             20.344    18.333    38.677      86.557      FARMACIA y BBQQ.            NO
+ 0030 004131 DEL AGUILA ALVARADO MILAGROS ALEJANDRA     24.408    13.243    37.651      86.557      FARMACIA y BBQQ.            NO
+ 0031 042537 VACA DAVILA KARINA CELI                     9.153    27.517    36.670      86.557      FARMACIA y BBQQ.            NO
+ 0032 019876 LAYZA MONTOYA ELIANA JHAKSUMY              10.166    26.491    36.657      86.557      FARMACIA y BBQQ.            NO
+                                               UNIVERSIDAD NACIONAL DE TRUJILLO - UNT
+ OF.DE TECNOLOG.DE LA INFOR.                    EXAMEN DE ADMISION ORDINARIO 2023-I                                        Pag.  3
+       * AREA P.A.D.*                           QUINTO GRADO DE EDUCACION SECUNDARIA                                       21/10/2022
+                                       RESULTADOS POR ESCUELA ACADEMICO PROFESIONAL - AREA - A
+ ======================================================================================================================================
+ OR-  CARNET      APELLIDOS  y  NOMBRES                PTJE APT    PTJE    PUNTAJE     ULTIMO          ESCUELA               ALCANZA
+ DEN                                                    ACADEM    CONOC.    TOTAL    INGRESANTE                              VACANTE
+ ======================================================================================================================================
+ 0033 048992 ROSARIO REYES DIANA MARLENI                14.242    21.411    35.653      86.557      FARMACIA y BBQQ.            NO
+ 0034 018731 BAUTISTA LOPEZ KRISTHEL SAYURI             22.376    13.238    35.614      86.557      FARMACIA y BBQQ.            NO
+ 0035 030459 CHAVEZ CHAVEZ DELSY MARILIN                20.326    13.198    33.524      86.557      FARMACIA y BBQQ.            NO
+ 0036 006473 JOAQUIN AVILA JOYSI PAMELA                 21.345     9.144    30.489      86.557      FARMACIA y BBQQ.            NO
+ 0037 048476 DURAN VASQUEZ KATHERIN YANELLY              7.103    21.381    28.484      86.557      FARMACIA y BBQQ.            NO
+ 0038 051384 GONZALES RUIZ ANA CRISTINA                 10.166    14.269    24.435      86.557      FARMACIA y BBQQ.            NO
+ 0039 002869 CARUAJULCA INFANTE ARMANDINA YANARIT       10.154     9.154    19.308      86.557      FARMACIA y BBQQ.            NO
+ 0040 046699 ZURITA SALAS MIRELY NICOL                  14.224    -7.187     7.037      86.557      FARMACIA y BBQQ.            NO
+ 0041 014917 FLORES GAMEZ JOSE JHUNIOR                   0.000     0.000     0.000      86.557      FARMACIA y BBQQ.         AUSENTE
+
+
+
+ 0001 074435 DIAZ SANCHEZ JEAN PIEER SMIT               96.655   214.130   310.785     282.268      MEDICINA                    SI
+ 0002 017454 MARQUINA HUAMAN GUSTAVO BENJAMIN           88.515   198.840   287.355     282.268      MEDICINA                    SI
+ 0003 008363 RODRIGUEZ TAM SERGIO EDMUNDO               80.375   196.808   277.183     282.268      MEDICINA                    NO
+ 0004 061321 FIESTAS NANFUÑAY LUIS ALESSANDRO           77.318   182.519   259.837     282.268      MEDICINA                    NO
+ 0005 007913 CHUYE MATIAS ELIOT IVAN                    83.426   170.282   253.708     282.268      MEDICINA                    NO
+ 0006 003706 VILCA AVALOS RODRIGO FABRIZIO              66.127   159.061   225.188     282.268      MEDICINA                    NO
+ 0007 039185 PAJARES POLO LUCIANA NICOLE                77.324   144.792   222.116     282.268      MEDICINA                    NO
+ 0008 077361 RAMIREZ SALAZAR SANTIAGO LEONEL            55.961   165.187   221.148     282.268      MEDICINA                    NO
+ 0009 003463 PASQUEL COTRINA BRISSA MAIYELEN            78.343   138.676   217.019     282.268      MEDICINA                    NO
+ 0010 001007 AGUILERA MANCHAY ENVER WILLIAMS            79.362   136.644   216.006     282.268      MEDICINA                    NO
+ 0011 004388 MIRANDA CORTEZ VICTOR MANUEL               81.388   134.572   215.960     282.268      MEDICINA                    NO
+ 0012 062478 CENTENO CHACON ANDRE MATIAS                72.229   140.698   212.927     282.268      MEDICINA                    NO
+ 0013 063952 RACCHUMI VASQUEZ SERGIO LEONARDO           64.095   146.829   210.924     282.268      MEDICINA                    NO
+ 0014 058797 ANGASPILCO CRUZADO WALTER MANUEL           70.203   136.634   206.837     282.268      MEDICINA                    NO
+ 0015 025071 CAPUCRA CHAVEZ KAREN ANGELINE              74.273   131.539   205.812     282.268      MEDICINA                    NO
+ 0016 000085 CAHUAZA RIOS DIANE MARY ROSE               72.235   117.255   189.490     282.268      MEDICINA                    NO
+ 0017 014043 HUAMAN VALERA ANGHELA YAQUELIN             50.866   136.629   187.495     282.268      MEDICINA                    NO
+ 0018 078161 SALAZAR VASQUEZ JUAN CARLOS                53.923   131.534   185.457     282.268      MEDICINA                    NO
+ 0019 058196 REBAZA MENDOZA HUGO ERNESTO                72.235   109.107   181.342     282.268      MEDICINA                    NO
+ 0020 019805 MORENO SANCHEZ AMMY DIANNE                 60.025   119.307   179.332     282.268      MEDICINA                    NO
+ 0021 074738 GUEVARA GUEVARA JHON                       56.974   122.350   179.324     282.268      MEDICINA                    NO
+ 0022 010949 REYES RODRIGUEZ FRANCO NICOLAS             62.057   116.224   178.281     282.268      MEDICINA                    NO
+ 0023 032063 HUME ENRIQUEZ CAMILA ANGELINE SOLANSH      54.930   122.350   177.280     282.268      MEDICINA                    NO
+ 0024 037165 CABREJO REYES ANGIE GUADALUPE              69.184   105.023   174.207     282.268      MEDICINA                    NO
+ 0025 008417 ROJAS CASTILLO EDUARDO RONALD              57.993   110.118   168.111     282.268      MEDICINA                    NO
+ 0026 071066 TIRADO CASTILLO DIEGO ANGEL                50.854   117.230   168.084     282.268      MEDICINA                    NO
+ 0027 069947 SAMANIEGO SANCHEZ ANTONNY                  41.707   117.260   158.967     282.268      MEDICINA                    NO
+ 0028 009593 BENAVIDES IDROGO BRYAN ADHAMS              38.644   120.308   158.952     282.268      MEDICINA                    NO
+ 0029 062652 VELASQUEZ HUAMAN JOHANNA ELIZABETH         50.854   107.030   157.884     282.268      MEDICINA                    NO
+ 0030 072176 SUYON GONZALES VALENTINO                   76.311    80.554   156.865     282.268      MEDICINA                    NO
+ 0031 007141 LEGOAS DE PAZ ANGELINA VALERIA             51.879   100.939   152.818     282.268      MEDICINA                    NO
+ 0032 063396 DELGADO SANCHEZ DELGER FRANZ               46.796   103.992   150.788     282.268      MEDICINA                    NO
+ 0033 069859 PADILLA CABRERA ALMENDRA GRACIA            55.943    94.793   150.736     282.268      MEDICINA                    NO
+ 0034 043346 DE LA CRUZ RIOS LUIS FRANCISCO             73.248    77.471   150.719     282.268      MEDICINA                    NO
+ 0035 022064 ALCALDE DEZA CARLOS FERNANDO               59.006    88.717   147.723     282.268      MEDICINA                    NO
+ 0036 020698 SILVA GIL SAHORY DAYANA                    50.866    96.855   147.721     282.268      MEDICINA                    NO
+ 0037 000429 HUACCHILLO SALAMBAY CARLOS ANDREE          47.815    96.840   144.655     282.268      MEDICINA                    NO
+ 0038 030886 BRAVO ARNAO LUIS ANGEL                     59.000    85.634   144.634     282.268      MEDICINA                    NO
+                                               UNIVERSIDAD NACIONAL DE TRUJILLO - UNT
+ OF.DE TECNOLOG.DE LA INFOR.                    EXAMEN DE ADMISION ORDINARIO 2023-I                                        Pag.  4
+       * AREA P.A.D.*                           QUINTO GRADO DE EDUCACION SECUNDARIA                                       21/10/2022
+                                       RESULTADOS POR ESCUELA ACADEMICO PROFESIONAL - AREA - A
+ ======================================================================================================================================
+ OR-  CARNET      APELLIDOS  y  NOMBRES                PTJE APT    PTJE    PUNTAJE     ULTIMO          ESCUELA               ALCANZA
+ DEN                                                    ACADEM    CONOC.    TOTAL    INGRESANTE                              VACANTE
+ ======================================================================================================================================
+ 0039 012806 FIGUEROA MUÑOZ LEANDRO GABRIEL             31.523   112.155   143.678     282.268      MEDICINA                    NO
+ 0040 005581 UGAZ RODRIGUEZ MARCO VIZANCIO              46.790    95.844   142.634     282.268      MEDICINA                    NO
+ 0041 001327 GONZALES TORRES JOHANN ADRIAN              47.815    94.818   142.633     282.268      MEDICINA                    NO
+ 0042 070858 GARCIA VEGA HECTOR ALEJANDRO               42.726    95.849   138.575     282.268      MEDICINA                    NO
+ 0043 071385 CALIPUY ARIAS SEBASTIAN ALBERTO            37.631    99.913   137.544     282.268      MEDICINA                    NO
+ 0044 021455 FLOR CASTILLO ANGHELY BRIGGITTE            53.917    82.581   136.498     282.268      MEDICINA                    NO
+ 0045 063147 VILLAR ARAUJO IRMA EULALIA                 45.765    90.729   136.494     282.268      MEDICINA                    NO
+ 0046 069968 SANTISTEBAN FUKUMOTO JUAN MIGUEL           55.949    80.524   136.473     282.268      MEDICINA                    NO
+ 0047 073421 DELGADO CHAVEZ JULISSA YANIRA              50.866    84.628   135.494     282.268      MEDICINA                    NO
+ 0048 009906 ALTAMIRANO SOTELO XAVIER JUNIOR            47.815    87.676   135.491     282.268      MEDICINA                    NO
+ 0049 063527 CALLE SILVA GABRIELA SOFIA                 32.542   101.955   134.497     282.268      MEDICINA                    NO
+ 0050 004165 DIAZ DOMINGUEZ ERIKA DAYANA                52.904    80.554   133.458     282.268      MEDICINA                    NO
+ 0051 004674 SANCHEZ ESPINOZA GUILLERMO EFRAIN          45.765    86.630   132.395     282.268      MEDICINA                    NO
+ 0052 056806 PISCOYA LOPEZ JOSE ANDRES                  48.822    82.561   131.383     282.268      MEDICINA                    NO
+ 0053 000745 RUBIO RONCAL FABRIZZIO NICOLAS             64.089    67.291   131.380     282.268      MEDICINA                    NO
+ 0054 005343 FLORES HUANGAL MILAGROS DE FATIMA          51.885    78.502   130.387     282.268      MEDICINA                    NO
+ 0055 001947 GUEVARA VALVERDE JESUS ARMANDO             37.625    91.745   129.370     282.268      MEDICINA                    NO
+ 0056 024381 MONZON REYES JOSE EDUARDO                  53.917    75.434   129.351     282.268      MEDICINA                    NO
+ 0057 075787 CULQUI COLLAS JUAN ANDERSON                38.656    89.723   128.379     282.268      MEDICINA                    NO
+ 0058 064772 HENRIQUEZ REVILLA LEONARDO ANDRES          51.879    76.470   128.349     282.268      MEDICINA                    NO
+ 0059 059913 GONZALEZ SICHE NAOMI LUCIANA               62.051    66.245   128.296     282.268      MEDICINA                    NO
+ 0060 066598 MENDOZA ORELLANO ABNER DAVID               42.726    84.613   127.339     282.268      MEDICINA                    NO
+ 0061 054056 SALDAÑA MATUTE CIELO YAQUELY               43.745    82.586   126.331     282.268      MEDICINA                    NO
+ 0062 070552 VILLANUEVA CERDAN KARIM ARIANA             38.644    87.661   126.305     282.268      MEDICINA                    NO
+ 0063 059933 GONZALES PEREZ DIEGO FRANK                 27.453    97.866   125.319     282.268      MEDICINA                    NO
+ 0064 030861 POLO POVEDA CARLOS ENRIQUE                 44.764    80.549   125.313     282.268      MEDICINA                    NO
+ 0065 012152 MATIAS REYES ANGIE GABRIELA                52.904    71.375   124.279     282.268      MEDICINA                    NO
+ 0066 037264 FERNANDEZ ARCE LUZ MARCELA                 43.739    79.508   123.247     282.268      MEDICINA                    NO
+ 0067 029507 CALLIRGOS DIAZ XIOMARA JADITH              51.879    70.334   122.213     282.268      MEDICINA                    NO
+ 0068 077087 CESPEDES SAENZ MIGUEL SEBASTIAN            46.796    73.412   120.208     282.268      MEDICINA                    NO
+ 0069 006445 TAPIA MENDOZA RAMSES ADRIANO               45.765    73.372   119.137     282.268      MEDICINA                    NO
+ 0070 069292 CUSTODIO FLORES JUAN CARLOS HIKOHASHI      31.529    86.650   118.179     282.268      MEDICINA                    NO
+ 0071 009819 SILVA CASIANO PEDRO LUCIANO                55.961    62.191   118.152     282.268      MEDICINA                    NO
+ 0072 038726 WALTER BURGA HARUMI YAJAIRA                66.121    51.951   118.072     282.268      MEDICINA                    NO
+ 0073 029788 SOLIS MACEDO DIEGO LUIS                    40.688    76.455   117.143     282.268      MEDICINA                    NO
+ 0074 031977 IZQUIERDO VASQUEZ KEVIN ENRIQUE BRIGHAM    56.974    60.149   117.123     282.268      MEDICINA                    NO
+ 0075 042776 SOLORZANO ZAVALETA LUZ MARITA              50.854    66.230   117.084     282.268      MEDICINA                    NO
+ 0076 062511 SANCHEZ FLORES JAMES AFSAIR                52.898    63.177   116.075     282.268      MEDICINA                    NO
+ 0077 001787 PEREZ SILVA FRANK MANUEL                   35.605    78.502   114.107     282.268      MEDICINA                    NO
+ 0078 057967 CHUQUIPOMA AGUILAR JULIO CESAR             44.758    69.333   114.091     282.268      MEDICINA                    NO
+ 0079 016155 LINARES FIGUEROA MIKJAIL FERNANDO          49.841    64.208   114.049     282.268      MEDICINA                    NO
+ 0080 018963 BAZAN URIARTE ANGHY MISHEL                 43.739    69.333   113.072     282.268      MEDICINA                    NO
+ 0081 063626 ROJAS TIMANA WILSON GABRIEL                50.872    62.196   113.068     282.268      MEDICINA                    NO
+ 0082 030069 OLIVERA AVILA ALESSANDRA PATRICIA          33.573    78.512   112.085     282.268      MEDICINA                    NO
+ 0083 014208 PACHAMANGO RODRIGUEZ LUIS ENRIQUE          30.510    81.545   112.055     282.268      MEDICINA                    NO
+ 0084 004891 ESPINOZA ROJAS CORALY SOLANGE              40.688    71.350   112.038     282.268      MEDICINA                    NO
+ 0085 077058 HURTADO SILVA CELSO CARLOSMARTIN           40.682    71.350   112.032     282.268      MEDICINA                    NO
+ 0086 027352 RAMIREZ CAMPOS ADRIANA VICTORIA            30.510    80.544   111.054     282.268      MEDICINA                    NO
+ 0087 041365 DIAZ FRIAS MICHAEL ALIGHERI                51.879    59.123   111.002     282.268      MEDICINA                    NO
+ 0088 024103 CANTU ENRIQUEZ RAUL RICARDO                24.402    85.624   110.026     282.268      MEDICINA                    NO
+                                               UNIVERSIDAD NACIONAL DE TRUJILLO - UNT
+ OF.DE TECNOLOG.DE LA INFOR.                    EXAMEN DE ADMISION ORDINARIO 2023-I                                        Pag.  5
+       * AREA P.A.D.*                           QUINTO GRADO DE EDUCACION SECUNDARIA                                       21/10/2022
+                                       RESULTADOS POR ESCUELA ACADEMICO PROFESIONAL - AREA - A
+ ======================================================================================================================================
+ OR-  CARNET      APELLIDOS  y  NOMBRES                PTJE APT    PTJE    PUNTAJE     ULTIMO          ESCUELA               ALCANZA
+ DEN                                                    ACADEM    CONOC.    TOTAL    INGRESANTE                              VACANTE
+ ======================================================================================================================================
+ 0089 064333 GONZALES JULON MITCHELL ANDREE             37.637    72.381   110.018     282.268      MEDICINA                    NO
+ 0090 056753 ROMERO SANCHEZ ROSA YSABEL                 47.815    62.201   110.016     282.268      MEDICINA                    NO
+ 0091 038883 REBAZA CHAVEZ LUISIANA MASSIEL             31.523    78.492   110.015     282.268      MEDICINA                    NO
+ 0092 043171 LOYOLA LANDAURO JUAN CRUZ                  39.663    70.344   110.007     282.268      MEDICINA                    NO
+ 0093 002336 RUBIO GUTIERREZ LUCIANA MARIAFE            33.573    74.433   108.006     282.268      MEDICINA                    NO
+ 0094 059673 ZAVALETA SALINAS PAMELA ABIGAIL            34.592    72.396   106.988     282.268      MEDICINA                    NO
+ 0095 076729 GUEVARA VILCHEZ JUAN SEBASTIAN             46.796    60.134   106.930     282.268      MEDICINA                    NO
+ 0096 007317 ARTEAGA BALTODANO ARIANA EDIEL             46.790    60.134   106.924     282.268      MEDICINA                    NO
+ 0097 009302 VASQUEZ BRITO JHOJANY MILAY                25.433    80.549   105.982     282.268      MEDICINA                    NO
+ 0098 014951 MIRANDA VEGA Q'ORIANKA FIORELLA            38.656    67.291   105.947     282.268      MEDICINA                    NO
+ 0099 039245 VASQUEZ CIEZA ERICK JOEL                   34.580    71.355   105.935     282.268      MEDICINA                    NO
+ 0100 071267 SOTO DEPAZ NAYELI ODALIS                   36.612    69.308   105.920     282.268      MEDICINA                    NO
+ 0101 012975 CIEZA OLAZABAL SAORI ESMERALDA             51.885    53.007   104.892     282.268      MEDICINA                    NO
+ 0102 038013 CRUZADO FALEN ASHLEY MELANIE               41.707    62.181   103.888     282.268      MEDICINA                    NO
+ 0103 000498 REYES MELENDEZ MAYTE DANUSKA               29.497    73.402   102.899     282.268      MEDICINA                    NO
+ 0104 035294 AGUILAR MANTILLA GRECIA VALERIA GERALDIN   43.745    59.123   102.868     282.268      MEDICINA                    NO
+ 0105 037067 FIESTAS MARTINEZ CARLOS VIDAL JHUNNIOR     43.739    59.128   102.867     282.268      MEDICINA                    NO
+ 0106 002068 LIZARRAGA ZEGARRA ALESSANDRO RAFAEL        35.593    67.261   102.854     282.268      MEDICINA                    NO
+ 0107 019989 CASAHUAMAN VASQUEZ ARELY DEL CARMEN        50.854    51.951   102.805     282.268      MEDICINA                    NO
+ 0108 012985 VASQUEZ COICO LUCIANA BRIGITTE             42.720    58.102   100.822     282.268      MEDICINA                    NO
+ 0109 072848 MEDINA FERRER HUGO                         31.523    69.298   100.821     282.268      MEDICINA                    NO
+ 0110 019704 SOTO RUBIO ANTHONY GRECCO                  49.847    50.960   100.807     282.268      MEDICINA                    NO
+ 0111 059297 RAMIREZ COLLAZOS ROBERTO CARLOS            50.860    49.914   100.774     282.268      MEDICINA                    NO
+ 0112 021615 DIAZ PEREZ JESUS ANDREA GUADALUPE          25.427    74.428    99.855     282.268      MEDICINA                    NO
+ 0113 063857 BALENA SANCHEZ GABRIELA ALEXANDRA          38.662    61.175    99.837     282.268      MEDICINA                    NO
+ 0114 007539 CASTRO MIRANDA RENATO EDUARDO              40.688    59.118    99.806     282.268      MEDICINA                    NO
+ 0115 019623 ULLOA GUEVARA FRANCISCO FIRDUSI            54.936    44.844    99.780     282.268      MEDICINA                    NO
+ 0116 004041 CHAVEZ CUBAS SERGIO ANDRES                 43.733    55.019    98.752     282.268      MEDICINA                    NO
+ 0117 055734 BELTRAN BERMUDEZ CARLOS GUILLERMO          30.510    67.271    97.781     282.268      MEDICINA                    NO
+ 0118 074246 CHAFLOQUE VELASQUEZ LUIS ANGEL             43.739    54.018    97.757     282.268      MEDICINA                    NO
+ 0119 032244 ARCE TIBURCIO ROBER ULISES                 49.847    47.902    97.749     282.268      MEDICINA                    NO
+ 0120 002406 PAREJA HINOSTROZA MARCELA ALESSANDRA       39.681    57.101    96.782     282.268      MEDICINA                    NO
+ 0121 020264 QUITO BARDALES ARI VALENTINO               37.637    59.133    96.770     282.268      MEDICINA                    NO
+ 0122 002096 LUJAN QUINTANA ANGELINA TABATA             40.688    56.060    96.748     282.268      MEDICINA                    NO
+ 0123 013927 LEYVA HURTADO LEONARDO SEBASTIAN           45.777    50.965    96.742     282.268      MEDICINA                    NO
+ 0124 022373 JARA CRUZ ALONDRA LOIDA                    46.796    49.944    96.740     282.268      MEDICINA                    NO
+ 0125 007843 FLORES GUARNIZ EDWARD FERNANDO             55.955    40.775    96.730     282.268      MEDICINA                    NO
+ 0126 005886 QUIROZ RODRIGUEZ PIERO ABRAM               54.936    41.786    96.722     282.268      MEDICINA                    NO
+ 0127 042363 CHUNGA ALCANTARA VICTOR EMANUEL            37.625    59.093    96.718     282.268      MEDICINA                    NO
+ 0128 062999 ANDRADE VELA SAMIR ALEXANDER               40.676    56.030    96.706     282.268      MEDICINA                    NO
+ 0129 074117 MEDINA SANTA CRUZ BRYAN SMITH              50.860    45.830    96.690     282.268      MEDICINA                    NO
+ 0130 028693 TORRES YAJAHUANCA KRISS DAYANNA            27.459    68.302    95.761     282.268      MEDICINA                    NO
+ 0131 078181 ARAUJO ARTEAGA JIMENA VALENTINA            38.656    57.066    95.722     282.268      MEDICINA                    NO
+ 0132 004708 PINEDO ALVA DIEGO ALEJANDRO                59.012    36.701    95.713     282.268      MEDICINA                    NO
+ 0133 074698 AGREDA GUEVARA PABLO ANDREE                17.287    77.491    94.778     282.268      MEDICINA                    NO
+ 0134 022549 CASTILLO RODRIGUEZ XIMENA DALIS TATIANA    28.484    66.270    94.754     282.268      MEDICINA                    NO
+ 0135 037461 FERNANDEZ PAREDES YESTON HAVIER            28.472    66.250    94.722     282.268      MEDICINA                    NO
+ 0136 065686 ZAPATEL RAMIREZ WILDER FABIAN              20.320    74.398    94.718     282.268      MEDICINA                    NO
+ 0137 040301 OLIVARES LUJAN JOSE ANTONIO                40.682    54.003    94.685     282.268      MEDICINA                    NO
+ 0138 012739 DEL VALLE URRUTIA MARIA CRISTINA           46.784    47.872    94.656     282.268      MEDICINA                    NO
+                                               UNIVERSIDAD NACIONAL DE TRUJILLO - UNT
+ OF.DE TECNOLOG.DE LA INFOR.                    EXAMEN DE ADMISION ORDINARIO 2023-I                                        Pag.  6
+       * AREA P.A.D.*                           QUINTO GRADO DE EDUCACION SECUNDARIA                                       21/10/2022
+                                       RESULTADOS POR ESCUELA ACADEMICO PROFESIONAL - AREA - A
+ ======================================================================================================================================
+ OR-  CARNET      APELLIDOS  y  NOMBRES                PTJE APT    PTJE    PUNTAJE     ULTIMO          ESCUELA               ALCANZA
+ DEN                                                    ACADEM    CONOC.    TOTAL    INGRESANTE                              VACANTE
+ ======================================================================================================================================
+ 0139 013166 MENDEZ ESPINOLA SANDRA MAITE               33.573    60.154    93.727     282.268      MEDICINA                    NO
+ 0140 027501 PELAEZ VASQUEZ ARIANA NAOMY                44.764    48.948    93.712     282.268      MEDICINA                    NO
+ 0141 011922 VALLEJO VENTURA ANA MARIA FERNANDA         37.637    56.065    93.702     282.268      MEDICINA                    NO
+ 0142 009153 ALCANTARA CARRERA JULIO DANIEL             56.974    36.696    93.670     282.268      MEDICINA                    NO
+ 0143 075085 CASTRO CHAPILLIQUEN CARMEN ROSARIO         37.625    56.035    93.660     282.268      MEDICINA                    NO
+ 0144 032941 VEGA FRANCISCO TATIANA LUZMILA             37.637    55.049    92.686     282.268      MEDICINA                    NO
+ 0145 077943 ABILA BACA FERNANDA ALEJANDRA              31.529    61.155    92.684     282.268      MEDICINA                    NO
+ 0146 048314 CHAVEZ VERGARA ANGELO ANTHONY              38.656    54.028    92.684     282.268      MEDICINA                    NO
+ 0147 079601 ARGOMEDO CARBAJAL JAMIL JOSUE ALESSANDRO   39.675    52.992    92.667     282.268      MEDICINA                    NO
+ 0148 001809 CASTILLO MONZON WILLIAM EDUARDO            49.847    42.807    92.654     282.268      MEDICINA                    NO
+ 0149 065205 LEONARDO CARRILLO STEFI LARISSA            52.898    39.734    92.632     282.268      MEDICINA                    NO
+ 0150 005706 REYNA SAGASTEGUI MICHELLE ALEJANDRA        32.554    59.143    91.697     282.268      MEDICINA                    NO
+ 0151 039369 SALDAÑA ALCANTARA FRANCO DAVID             15.237    76.445    91.682     282.268      MEDICINA                    NO
+ 0152 002086 FLORES ZARE JAZMIN MIRELLA                 42.732    48.923    91.655     282.268      MEDICINA                    NO
+ 0153 002367 ARRASCUE ALAYO ALMENDRA RAQUEL             20.320    71.330    91.650     282.268      MEDICINA                    NO
+ 0154 026406 ZULUETA DIAZ BRAYAN KELSEN                 42.720    48.928    91.648     282.268      MEDICINA                    NO
+ 0155 043166 CRUZ HERNANDEZ PATRICIA CAROLINA           25.409    66.230    91.639     282.268      MEDICINA                    NO
+ 0156 036333 CUBAS VASQUEZ MACIEL SHANTAL               34.574    57.056    91.630     282.268      MEDICINA                    NO
+ 0157 068763 SILVA ROJAS DANIXZA ALEJANDRA              30.498    61.130    91.628     282.268      MEDICINA                    NO
+ 0158 016281 AGUILAR VASQUEZ KIARA YAMILE               23.377    67.261    90.638     282.268      MEDICINA                    NO
+ 0159 028397 PERALTA CORREA FABRIZIO YOSEHP             59.006    31.571    90.577     282.268      MEDICINA                    NO
+ 0160 043831 PALMA SEGURA MIA ANAHI                     23.395    66.275    89.670     282.268      MEDICINA                    NO
+ 0161 064848 HOYOS SEGURA JHORDAN IVAN                  35.599    54.013    89.612     282.268      MEDICINA                    NO
+ 0162 036042 PAREDES CAMPOS ALEX ANTONIO                45.783    43.823    89.606     282.268      MEDICINA                    NO
+ 0163 020734 CAMPOS CABRERA FLOR YAJAIRA                35.593    54.008    89.601     282.268      MEDICINA                    NO
+ 0164 064853 BARBOZA TAFUR JAMES YAMPIER                20.332    68.302    88.634     282.268      MEDICINA                    NO
+ 0165 043472 CHAVEZ VARGAS DAFNE ANA BELEN              45.777    42.817    88.594     282.268      MEDICINA                    NO
+ 0166 065715 AZAÑEDO HORNA DANA NATSUMY                 20.338    67.281    87.619     282.268      MEDICINA                    NO
+ 0167 023905 ALDORADIN ESPINOZA ALEXIA ANAIS            30.516    57.101    87.617     282.268      MEDICINA                    NO
+ 0168 063604 HUERTA FLORES ZAORY JHAZMIN                11.167    76.430    87.597     282.268      MEDICINA                    NO
+ 0169 065466 DE LA CRUZ SANCHEZ ENRIQUE ALEJANDRO       40.688    46.896    87.584     282.268      MEDICINA                    NO
+ 0170 073246 ROJO SEGURA NAHUEL ALEJANDRO               35.587    51.951    87.538     282.268      MEDICINA                    NO
+ 0171 018067 HERRERA LEIVA ANDRY BRAYAN JESUS           29.497    57.091    86.588     282.268      MEDICINA                    NO
+ 0172 023918 ABANTO LUNA VICTORIA MARIA FERNANDA        27.459    59.113    86.572     282.268      MEDICINA                    NO
+ 0173 013634 CRUZADO CABANILLAS KYARA DAYANA            35.599    50.965    86.564     282.268      MEDICINA                    NO
+ 0174 002437 GONZALES ALVA MARIANA                      29.491    57.071    86.562     282.268      MEDICINA                    NO
+ 0175 067096 LEZAMA ARTEAGA ZAKYA ADARA                 25.409    61.130    86.539     282.268      MEDICINA                    NO
+ 0176 037006 CARLOS VELASQUEZ EUNICE SARAI              38.644    47.872    86.516     282.268      MEDICINA                    NO
+ 0177 075733 VALDERRAMA CUEVA BRAYHAN PIERO             40.676    45.830    86.506     282.268      MEDICINA                    NO
+ 0178 056438 CASTILLO ROMERO ANDREA DE LOS ANGELES       9.135    76.450    85.585     282.268      MEDICINA                    NO
+ 0179 032664 ENRIQUEZ VILLALOBOS CRISTHIAN ANGHELO      25.433    60.149    85.582     282.268      MEDICINA                    NO
+ 0180 026806 TANDAYPAN VELIZ ABEL LEONARDO              36.618    48.913    85.531     282.268      MEDICINA                    NO
+ 0181 063139 TASAYCO QUISPE CARMEN PAOLA                34.580    50.950    85.530     282.268      MEDICINA                    NO
+ 0182 070491 CASTRO POLO NICOLLE JULIET ESPERANZA       42.726    42.797    85.523     282.268      MEDICINA                    NO
+ 0183 019475 YEPEZ MENDOZA MARIA PIA DEL CARMEN         38.644    46.871    85.515     282.268      MEDICINA                    NO
+ 0184 035819 MEDINA BAZAN ADRIAN ALONSO                 33.573    50.975    84.548     282.268      MEDICINA                    NO
+ 0185 028803 MONCADA MENDOZA YADHIRA DAYANA             20.332    64.208    84.540     282.268      MEDICINA                    NO
+ 0186 009734 CORONEL LEIVA EDWARD GABRIEL               23.383    61.155    84.538     282.268      MEDICINA                    NO
+ 0187 078486 BENAVIDES LEIVA BRIGITTE VALENTINA         36.618    47.912    84.530     282.268      MEDICINA                    NO
+ 0188 028875 SANCHEZ PEREZ LUCERO SOLANGE               43.745    40.775    84.520     282.268      MEDICINA                    NO
+                                               UNIVERSIDAD NACIONAL DE TRUJILLO - UNT
+ OF.DE TECNOLOG.DE LA INFOR.                    EXAMEN DE ADMISION ORDINARIO 2023-I                                        Pag.  7
+       * AREA P.A.D.*                           QUINTO GRADO DE EDUCACION SECUNDARIA                                       21/10/2022
+                                       RESULTADOS POR ESCUELA ACADEMICO PROFESIONAL - AREA - A
+ ======================================================================================================================================
+ OR-  CARNET      APELLIDOS  y  NOMBRES                PTJE APT    PTJE    PUNTAJE     ULTIMO          ESCUELA               ALCANZA
+ DEN                                                    ACADEM    CONOC.    TOTAL    INGRESANTE                              VACANTE
+ ======================================================================================================================================
+ 0189 065342 VASQUEZ CRUZADO EYMIDIN JHORJETH           40.688    43.813    84.501     282.268      MEDICINA                    NO
+ 0190 005022 SILVESTRE ZAVALETA GLENDA ANTONELA         54.936    29.544    84.480     282.268      MEDICINA                    NO
+ 0191 006891 BONILLA BOCANEGRA MARIA CAMILA             53.923    30.545    84.468     282.268      MEDICINA                    NO
+ 0192 057581 RAICO ALVARADO GERSON ANDRE                53.923    29.549    83.472     282.268      MEDICINA                    NO
+ 0193 000868 REYES DIAZ NEREA RAFAELLA                  42.714    40.735    83.449     282.268      MEDICINA                    NO
+ 0194 071963 ARIAS COTRINA LUZ YAMERITH                 20.332    62.171    82.503     282.268      MEDICINA                    NO
+ 0195 076136 CABANILLAS MORE EUNICE ALEXANDRA           28.472    54.018    82.490     282.268      MEDICINA                    NO
+ 0196 002787 CAMPOS COSME EMILY GIULIANNA               20.326    62.161    82.487     282.268      MEDICINA                    NO
+ 0197 049924 POLO CORREA CATHERINE ALEXANDRA            40.688    41.781    82.469     282.268      MEDICINA                    NO
+ 0198 002147 TISNADO ALVA LIDIA DIOLYT                  27.447    55.014    82.461     282.268      MEDICINA                    NO
+ 0199 042316 HERRERA PESANTES GRAZZIA FATIMA            22.364    59.103    81.467     282.268      MEDICINA                    NO
+ 0200 074174 MENDIETA CONTRERAS FABRIZIO ANTONIO        15.231    66.230    81.461     282.268      MEDICINA                    NO
+ 0201 021603 PEREZ GORDILLO RODRIGO STEFANO             28.472    52.987    81.459     282.268      MEDICINA                    NO
+ 0202 079334 GUTIERREZ FLORINDEZ KIARA DESSIREE         20.320    61.130    81.450     282.268      MEDICINA                    NO
+ 0203 076039 MACHUCA ESCOBAL ERICK ANDERSON             20.320    61.130    81.450     282.268      MEDICINA                    NO
+ 0204 029396 FLORES ALEJO ROSA ANGELICA MARIA           20.320    61.130    81.450     282.268      MEDICINA                    NO
+ 0205 039946 ZAVALETA CERQUIN TRACY GENESIS              4.040    76.445    80.485     282.268      MEDICINA                    NO
+ 0206 078455 VASQUEZ CARUAJULCA FAVIO JESUS             25.421    55.044    80.465     282.268      MEDICINA                    NO
+ 0207 041804 LOPEZ PESANTES VALERIA ANAIS               34.586    45.865    80.451     282.268      MEDICINA                    NO
+ 0208 061889 BARBOZA CABOS SARITA KRISTELL              32.548    47.902    80.450     282.268      MEDICINA                    NO
+ 0209 009745 FLORES DIAZ JHOSELYN NICOLL                37.637    42.812    80.449     282.268      MEDICINA                    NO
+ 0210 001815 MUÑOZ SANCHEZ MARTIN GABRIEL               44.764    35.670    80.434     282.268      MEDICINA                    NO
+ 0211 079808 ROJAS BECERRA PAOLA CLEMENTINA             42.720    37.707    80.427     282.268      MEDICINA                    NO
+ 0212 072095 VALENCIA CORDOVA CLARA ARELI ALEJANDRA     47.815    32.607    80.422     282.268      MEDICINA                    NO
+ 0213 014875 CARRILLO PEREZ XIOMARA MARLENY             27.465    51.996    79.461     282.268      MEDICINA                    NO
+ 0214 070207 DIAZ LOPEZ MARCO ANTONIO                   31.535    47.902    79.437     282.268      MEDICINA                    NO
+ 0215 077359 MENDOZA VASQUEZ KATHERINE MARIANELLA       43.751    35.685    79.436     282.268      MEDICINA                    NO
+ 0216 028028 RODRIGUEZ CABRERA KATHERIN MAYTE           29.497    49.939    79.436     282.268      MEDICINA                    NO
+ 0217 049505 TORRES QUINCHO ANGHELY MADHURI             18.294    61.140    79.434     282.268      MEDICINA                    NO
+ 0218 071507 DIAZ FERNANDEZ PIEROL ALDEIR               22.364    57.061    79.425     282.268      MEDICINA                    NO
+ 0219 069525 FERNANDEZ FERNANDEZ ALESSANDRO ANDRE       27.447    51.951    79.398     282.268      MEDICINA                    NO
+ 0220 066884 VELASQUEZ AZABACHE CORINA DEL ROSARIO      29.497    48.933    78.430     282.268      MEDICINA                    NO
+ 0221 043145 DIAZ PIZARRO WACNER ALEXANDER              36.624    41.786    78.410     282.268      MEDICINA                    NO
+ 0222 023525 HUAMANI ZAVALA ALVARO ENRIQUE              40.694    37.707    78.401     282.268      MEDICINA                    NO
+ 0223 065875 ALVA RODRIGUEZ AKEMY RAGGEL                35.599    42.792    78.391     282.268      MEDICINA                    NO
+ 0224 019146 RUIZ MINCHOLA VALERIA ANAHI                41.707    36.681    78.388     282.268      MEDICINA                    NO
+ 0225 065364 SANCHEZ PEREZ JIMENA MILEYDI               36.606    41.751    78.357     282.268      MEDICINA                    NO
+ 0226 002248 RUBIO CASAMAYOR TEODOLINDA LIZETH          39.681    37.727    77.408     282.268      MEDICINA                    NO
+ 0227 075159 RAMOS CHAVARRY BRENDA GRISTEL              15.237    62.166    77.403     282.268      MEDICINA                    NO
+ 0228 031749 CHERO QUESQUEN PATRICK FABIAN              22.364    55.039    77.403     282.268      MEDICINA                    NO
+ 0229 044615 ESCALANTE ARRIBASPLATA JUAN CARLOS SEBAS   32.554    44.844    77.398     282.268      MEDICINA                    NO
+ 0230 020848 MINCHOLA GOMEZ ANTONELLA                   28.472    48.923    77.395     282.268      MEDICINA                    NO
+ 0231 060087 GONZALEZ SICHE PATRICK ALESSANDRO          13.199    64.193    77.392     282.268      MEDICINA                    NO
+ 0232 024606 ALCANTARA MEZA ANA FLAVIA NICOLE           31.535    44.864    76.399     282.268      MEDICINA                    NO
+ 0233 004711 LINARES ARMAS SAMANTA GEOVANNI             35.605    40.785    76.390     282.268      MEDICINA                    NO
+ 0234 067963 LLONTO LUMBRE LESLYE JESUS                 38.656    37.712    76.368     282.268      MEDICINA                    NO
+ 0235 059228 TIRADO GAMBOA ALISSON ALEXANDRA            26.434    49.934    76.368     282.268      MEDICINA                    NO
+ 0236 033963 FERNANDEZ MOYA ANHAI JIMENA                15.231    61.130    76.361     282.268      MEDICINA                    NO
+ 0237 049695 ACUÑA IRIGOIN KEIRA LIZBETH                41.707    34.639    76.346     282.268      MEDICINA                    NO
+ 0238 020717 JARA GUTIERREZ LUCIANA STEPHANY            35.587    40.730    76.317     282.268      MEDICINA                    NO
+                                               UNIVERSIDAD NACIONAL DE TRUJILLO - UNT
+ OF.DE TECNOLOG.DE LA INFOR.                    EXAMEN DE ADMISION ORDINARIO 2023-I                                        Pag.  8
+       * AREA P.A.D.*                           QUINTO GRADO DE EDUCACION SECUNDARIA                                       21/10/2022
+                                       RESULTADOS POR ESCUELA ACADEMICO PROFESIONAL - AREA - A
+ ======================================================================================================================================
+ OR-  CARNET      APELLIDOS  y  NOMBRES                PTJE APT    PTJE    PUNTAJE     ULTIMO          ESCUELA               ALCANZA
+ DEN                                                    ACADEM    CONOC.    TOTAL    INGRESANTE                              VACANTE
+ ======================================================================================================================================
+ 0239 013293 APONTE LECARNAQUE IANPIER                  40.676    35.630    76.306     282.268      MEDICINA                    NO
+ 0240 000114 GAMARRA VILLANUEVA DURLY MAGDELITH         34.586    40.780    75.366     282.268      MEDICINA                    NO
+ 0241 053214 HUAMAN YARROW DANTE ANDERSON               15.237    60.119    75.356     282.268      MEDICINA                    NO
+ 0242 015326 SAAVEDRA ZUÑE ANGIE EDITH                  28.472    46.861    75.333     282.268      MEDICINA                    NO
+ 0243 074835 BALLENA MELGAR BRENDA NOEMI                31.535    42.812    74.347     282.268      MEDICINA                    NO
+ 0244 020871 GAVIDIA VARGAS MAYRA MIYUKI                36.624    37.717    74.341     282.268      MEDICINA                    NO
+ 0245 077537 GOICOCHEA SALAVERRY CESAR                  21.345    52.987    74.332     282.268      MEDICINA                    NO
+ 0246 021641 CESPEDES ARAUJO ALANIS YANAZETH            32.548    41.776    74.324     282.268      MEDICINA                    NO
+ 0247 053726 PERRIGO CHAVESTA NAYELY YAMILE             28.478    44.844    73.322     282.268      MEDICINA                    NO
+ 0248 024946 BORREGO DIAZ MARIA CAMILA                  31.529    41.786    73.315     282.268      MEDICINA                    NO
+ 0249 070817 CRUZ CHAVEZ LUZIANA ALESSANDRA             23.377    49.929    73.306     282.268      MEDICINA                    NO
+ 0250 047348 EVANGELISTA RIOS JUAN MANUEL               32.554    39.759    72.313     282.268      MEDICINA                    NO
+ 0251 028244 ANTON VALENCIA KEREN CAROLINA              23.395    48.918    72.313     282.268      MEDICINA                    NO
+ 0252 011956 TACULI VILLANUEVA ANGEL FARID              22.370    49.939    72.309     282.268      MEDICINA                    NO
+ 0253 030765 MORENO ARQUEROS LUIS ANGEL                 20.326    51.951    72.277     282.268      MEDICINA                    NO
+ 0254 006117 SANCHEZ CASTILLO YANIRA SOLAHE             29.485    42.787    72.272     282.268      MEDICINA                    NO
+ 0255 032158 SANCHEZ AGUIRRE GERARDO SEBASTIAN          34.580    37.692    72.272     282.268      MEDICINA                    NO
+ 0256 043048 GOMEZ RODRIGUEZ GINA GRACE                 35.593    36.671    72.264     282.268      MEDICINA                    NO
+ 0257 050673 BRICEÑO POLO LUIS SAUL                     45.777    26.476    72.253     282.268      MEDICINA                    NO
+ 0258 064157 SALVADOR RODRIGUEZ CHRISTIAN JAREN         35.587    36.651    72.238     282.268      MEDICINA                    NO
+ 0259 055352 ROJAS PEREZ CRISTHIAN ALEJANDRO            17.287    54.028    71.315     282.268      MEDICINA                    NO
+ 0260 002078 LIZARZABURU IDROGO IVAN ALFONSO TEOFILO    22.376    48.913    71.289     282.268      MEDICINA                    NO
+ 0261 063474 TORIBIO VILLANUEVA BRAULIO JESUS AXEL      23.383    47.902    71.285     282.268      MEDICINA                    NO
+ 0262 025152 GONZALES HENCKELL ALEJANDRO FABRIZIO       20.326    50.945    71.271     282.268      MEDICINA                    NO
+ 0263 046154 ASENCIO ROLDAN BRUNELLA MASSIEL            15.231    56.030    71.261     282.268      MEDICINA                    NO
+ 0264 012331 DEZA MURILLO CAMILA MARITZA                38.650    32.587    71.237     282.268      MEDICINA                    NO
+ 0265 029205 QUISPE VASQUEZ DIEGO ABEL                  30.498    40.730    71.228     282.268      MEDICINA                    NO
+ 0266 066054 CASTAÑEDA PRETEL ALEJANDRA NAOMI           20.332    49.939    70.271     282.268      MEDICINA                    NO
+ 0267 015372 CHUGNAS GUEVARA NICOL NOELIA               24.402    45.860    70.262     282.268      MEDICINA                    NO
+ 0268 044364 CORONADO SORIANO ADRIANA CATHERINE         27.459    42.802    70.261     282.268      MEDICINA                    NO
+ 0269 060835 MENDOZA GARCIA LILIANA BRIGITTE            25.421    44.829    70.250     282.268      MEDICINA                    NO
+ 0270 075549 MONTOYA GRANDA CINDY VICTORIA              28.472    41.776    70.248     282.268      MEDICINA                    NO
+ 0271 008949 NORABUENA VALLEJOS CARLOS AUGUSTO          22.364    47.877    70.241     282.268      MEDICINA                    NO
+ 0272 012447 BENAVIDES QUIROZ LAURA JOSEFINA            32.542    37.682    70.224     282.268      MEDICINA                    NO
+ 0273 049897 RODRIGUEZ DOMINGUEZ LUZ OLENKA             49.841    20.345    70.186     282.268      MEDICINA                    NO
+ 0274 065144 REVILLA ESTRADA CORELY JHARALY JHANEL      45.765    24.414    70.179     282.268      MEDICINA                    NO
+ 0275 013816 CRUZ JULCA ANTONELLA EMPERATRIZ             9.129    60.124    69.253     282.268      MEDICINA                    NO
+ 0276 005718 MARTINEZ SAUCEDO ANGIE GUADALUPE           33.567    35.680    69.247     282.268      MEDICINA                    NO
+ 0277 005129 CUBAS CHAVEZ PIERO GIANCARLO               31.529    37.717    69.246     282.268      MEDICINA                    NO
+ 0278 027159 RODRIGUEZ GARCIA ASHLEY YOHANNES           29.497    39.749    69.246     282.268      MEDICINA                    NO
+ 0279 007057 CHAVEZ ALCANTARA CARMELA FERNANDA NOEMI    38.656    30.565    69.221     282.268      MEDICINA                    NO
+ 0280 016591 OBREGON MENDOZA FIORELLA ANGELICA          31.529    37.682    69.211     282.268      MEDICINA                    NO
+ 0281 021341 PRETEL COTRINA JOHANNA BELEN               13.211    55.044    68.255     282.268      MEDICINA                    NO
+ 0282 032566 MIGUEL HUAMAN MARIA FERNANDA               44.764    23.448    68.212     282.268      MEDICINA                    NO
+ 0283 075146 CIEZA CARRASCO KARITO ARACELY              27.453    40.750    68.203     282.268      MEDICINA                    NO
+ 0284 045794 VARGAS MORENO JHONJARD DANIEL              27.453    40.745    68.198     282.268      MEDICINA                    NO
+ 0285 044988 CAVERO ROMERO ARIADNA AYSHA                37.637    30.550    68.187     282.268      MEDICINA                    NO
+ 0286 036802 FARRO CASTRO JHONATAN JESUS                19.325    47.917    67.242     282.268      MEDICINA                    NO
+ 0287 061986 JOHANSON HUAMAN VANINA ELIZABETH           16.268    50.965    67.233     282.268      MEDICINA                    NO
+ 0288 009618 VILLANUEVA SOTO LUIS ALEXANDER             32.554    34.669    67.223     282.268      MEDICINA                    NO
+                                               UNIVERSIDAD NACIONAL DE TRUJILLO - UNT
+ OF.DE TECNOLOG.DE LA INFOR.                    EXAMEN DE ADMISION ORDINARIO 2023-I                                        Pag.  9
+       * AREA P.A.D.*                           QUINTO GRADO DE EDUCACION SECUNDARIA                                       21/10/2022
+                                       RESULTADOS POR ESCUELA ACADEMICO PROFESIONAL - AREA - A
+ ======================================================================================================================================
+ OR-  CARNET      APELLIDOS  y  NOMBRES                PTJE APT    PTJE    PUNTAJE     ULTIMO          ESCUELA               ALCANZA
+ DEN                                                    ACADEM    CONOC.    TOTAL    INGRESANTE                              VACANTE
+ ======================================================================================================================================
+ 0289 041437 JANAMPA MORENO DANIELA NOEMI               27.465    39.754    67.219     282.268      MEDICINA                    NO
+ 0290 014807 ARANA TANDAYPAN ANA PAULA                  30.516    36.696    67.212     282.268      MEDICINA                    NO
+ 0291 065037 DELGADO BERNAL INGRIT DALIANA              16.250    50.950    67.200     282.268      MEDICINA                    NO
+ 0292 013318 QUINECHE ROJAS CAMILA SAMANTHA             30.510    36.681    67.191     282.268      MEDICINA                    NO
+ 0293 029885 CHAVEZ JIMENEZ MIRANDA MARIATTE            38.656    28.523    67.179     282.268      MEDICINA                    NO
+ 0294 021825 DIAZ ARTEAGA IVANNA ADELY                  26.428    40.745    67.173     282.268      MEDICINA                    NO
+ 0295 069018 TERRONES DE LOS RIOS JOSE EDUARDO          20.320    46.851    67.171     282.268      MEDICINA                    NO
+ 0296 063037 VILLALOBOS VASQUEZ GIULIANA GERALDINE      34.574    32.577    67.151     282.268      MEDICINA                    NO
+ 0297 055858 NOLASCO NOLASCO JUAN JOSE                  13.211    53.007    66.218     282.268      MEDICINA                    NO
+ 0298 019318 CRUZ SANCHEZ GIANMARCO                     15.243    50.965    66.208     282.268      MEDICINA                    NO
+ 0299 047881 QUIÑONES PAJARE JIMENA ALEXANDRA           29.485    36.666    66.151     282.268      MEDICINA                    NO
+ 0300 064322 VELASQUEZ VILLEGAS BHRESLEE SUSSEL         20.320    45.830    66.150     282.268      MEDICINA                    NO
+ 0301 029621 DESPOSORIO ROMERO CAROLINA GERALDINE       37.631    28.503    66.134     282.268      MEDICINA                    NO
+ 0302 076326 SAGASTEGUI RUIZ MILENA BETSABE              9.135    56.060    65.195     282.268      MEDICINA                    NO
+ 0303 014814 FIESTAS ALBINES SAMANTA MIRELLA            24.408    40.770    65.178     282.268      MEDICINA                    NO
+ 0304 032876 CERNA GASTAÑADUI RACHEL ALESSANDRA         15.243    49.934    65.177     282.268      MEDICINA                    NO
+ 0305 054562 SANJINES BACA ADRIANA VALERIA              11.173    54.003    65.176     282.268      MEDICINA                    NO
+ 0306 064539 GONZALES MONTOYA JOSE ALFREDO              29.497    35.670    65.167     282.268      MEDICINA                    NO
+ 0307 066988 ROMERO BLACIDO ADRIANA                     28.478    36.686    65.164     282.268      MEDICINA                    NO
+ 0308 031158 ALEJOS GARCIA YADHIRA YIRETT               21.351    43.813    65.164     282.268      MEDICINA                    NO
+ 0309 065133 VALVERDE FIGUEROA NICOLE MAYORITH          38.650    26.471    65.121     282.268      MEDICINA                    NO
+ 0310 075248 VILCHEZ ULLOA EVELYN SELENE                29.503    34.659    64.162     282.268      MEDICINA                    NO
+ 0311 051942 RELUZ TULLUME JOSMILIE AKEMI               19.313    44.839    64.152     282.268      MEDICINA                    NO
+ 0312 052693 RIOS MESTA CARLOS JAVIER                   31.535    32.617    64.152     282.268      MEDICINA                    NO
+ 0313 072362 FERNANDEZ LLUEN YARITZA YAMILET            31.529    32.622    64.151     282.268      MEDICINA                    NO
+ 0314 018655 ARMAS MENDEZ ANDY GUSTAVO                  38.656    25.470    64.126     282.268      MEDICINA                    NO
+ 0315 077693 LAURA TUNANTE JOSE KALEC                   37.631    26.491    64.122     282.268      MEDICINA                    NO
+ 0316 070005 REYES YNOÑAN YOSHUA YHON JAROL             20.338    42.812    63.150     282.268      MEDICINA                    NO
+ 0317 015561 RODRIGUEZ CHAVEZ ANA BELEN                 23.377    39.714    63.091     282.268      MEDICINA                    NO
+ 0318 046979 CAMPOS ROJAS NADIA ROSELY                  40.688    22.402    63.090     282.268      MEDICINA                    NO
+ 0319 051163 HERNANDEZ LLACSAHUANGA HEYLI ARELY         37.631    25.450    63.081     282.268      MEDICINA                    NO
+ 0320 055347 VILLANUEVA CHAVEZ ALEXANDRA LARISSA        34.592    27.527    62.119     282.268      MEDICINA                    NO
+ 0321 068468 LEON FONSECA VALERIA                       19.313    42.802    62.115     282.268      MEDICINA                    NO
+ 0322 000384 MARTELL ALVAREZ MARCO ANTONIO              32.548    29.554    62.102     282.268      MEDICINA                    NO
+ 0323 056733 MACHACA RUIZ ANGHELO SEBASTIAN             20.326    41.766    62.092     282.268      MEDICINA                    NO
+ 0324 019941 PEREZ MARRUFO JULIAN ALDAIR                15.231    46.851    62.082     282.268      MEDICINA                    NO
+ 0325 046444 MENDEZ SEGURA GIANELLA SOLANGE             24.396    37.682    62.078     282.268      MEDICINA                    NO
+ 0326 011302 LA ROSA VALVERDE FELIX RAFAEL              31.535    29.564    61.099     282.268      MEDICINA                    NO
+ 0327 006938 ESTACIO MARIÑOS MARIA DE JESUS             32.554    28.543    61.097     282.268      MEDICINA                    NO
+ 0328 070847 ABANTO CHUQUIHUANCA ALEXANDREE EDU         15.243    45.850    61.093     282.268      MEDICINA                    NO
+ 0329 020186 CARGUACHIN SILVA CRISTHIAN ALEXANDER       38.650    22.412    61.062     282.268      MEDICINA                    NO
+ 0330 079644 SALAZAR FARRO AXEL JHARED                  22.376    37.712    60.088     282.268      MEDICINA                    NO
+ 0331 058676 DIOSES PEÑA GABRIELA STEPHANIE             22.376    37.697    60.073     282.268      MEDICINA                    NO
+ 0332 057144 LEON DAVILA KARY YESENIA                   22.370    37.702    60.072     282.268      MEDICINA                    NO
+ 0333 003226 AGUILAR RUIZ ELVIRA ELIZABETH              20.332    39.734    60.066     282.268      MEDICINA                    NO
+ 0334 051715 VASQUEZ MINES ADRIAN FABRICIO              35.599    24.439    60.038     282.268      MEDICINA                    NO
+ 0335 000563 VILLANUEVA CERCADO CIELO MARIFER           25.409    34.619    60.028     282.268      MEDICINA                    NO
+ 0336 063435 MARROQUIN BLAS ANA PAULA                   33.573    25.485    59.058     282.268      MEDICINA                    NO
+ 0337 037158 UTRILLA GENDRAU MARIA LAURA ELVIRA         27.459    31.586    59.045     282.268      MEDICINA                    NO
+ 0338 042189 QUILCATE FLORES RODOLFO FABRICIO           35.605    23.438    59.043     282.268      MEDICINA                    NO
+                                               UNIVERSIDAD NACIONAL DE TRUJILLO - UNT
+ OF.DE TECNOLOG.DE LA INFOR.                    EXAMEN DE ADMISION ORDINARIO 2023-I                                        Pag. 10
+       * AREA P.A.D.*                           QUINTO GRADO DE EDUCACION SECUNDARIA                                       21/10/2022
+                                       RESULTADOS POR ESCUELA ACADEMICO PROFESIONAL - AREA - A
+ ======================================================================================================================================
+ OR-  CARNET      APELLIDOS  y  NOMBRES                PTJE APT    PTJE    PUNTAJE     ULTIMO          ESCUELA               ALCANZA
+ DEN                                                    ACADEM    CONOC.    TOTAL    INGRESANTE                              VACANTE
+ ======================================================================================================================================
+ 0339 075885 GARCIA RUIZ BRIYITH ANTONELLA              23.395    34.664    58.059     282.268      MEDICINA                    NO
+ 0340 031592 HERRERA FLORES JHERAL ALEJANDRO            23.389    34.659    58.048     282.268      MEDICINA                    NO
+ 0341 076804 CARDENAS ALBINCULA STHEFANY NICOLE         14.224    43.823    58.047     282.268      MEDICINA                    NO
+ 0342 027539 LEON CABEZA ANA VALKIRIA                   14.218    43.803    58.021     282.268      MEDICINA                    NO
+ 0343 032048 TIRADO VASQUEZ PAOLA ANTONELLA             30.510    27.502    58.012     282.268      MEDICINA                    NO
+ 0344 068783 GONZALEZ SERQUEN ARYELI ARIANNA            21.339    36.651    57.990     282.268      MEDICINA                    NO
+ 0345 041713 SEMINARIO MIRANDA LUCIANA VALERIA          35.587    22.402    57.989     282.268      MEDICINA                    NO
+ 0346 048742 ABANTO FLORES ALESSANDRA VICTORIA          33.561    24.424    57.985     282.268      MEDICINA                    NO
+ 0347 023386 FLORES MOLERO PAULA JOHANNA OLINDAY        25.409    32.572    57.981     282.268      MEDICINA                    NO
+ 0348 037278 PLASENCIA ALCANTARA ROSITA NATALY          46.790    11.176    57.966     282.268      MEDICINA                    NO
+ 0349 070253 INOÑAN REYES CRISTIAN POOL                  7.109    49.959    57.068     282.268      MEDICINA                    NO
+ 0350 032325 ARQUEROS MIGUEL JERSON FERNANDO             5.071    51.991    57.062     282.268      MEDICINA                    NO
+ 0351 035497 ALVA IPARRAGUIRRE HAMILY TALITA            13.205    43.828    57.033     282.268      MEDICINA                    NO
+ 0352 046766 CASTRO HIDALGO JULIO ARMANDO               26.440    29.559    55.999     282.268      MEDICINA                    NO
+ 0353 031561 ASTOLINGON LLICAN ALLISON IVETTE           29.503    26.496    55.999     282.268      MEDICINA                    NO
+ 0354 029308 VARGAS ALVA ANGELA VICTORIA                33.573    22.417    55.990     282.268      MEDICINA                    NO
+ 0355 021895 GUILLEN MATENCIO JIMENA ARIANA             41.713    14.259    55.972     282.268      MEDICINA                    NO
+ 0356 039026 TERAN LOPEZ MARICIELO                      15.231    40.730    55.961     282.268      MEDICINA                    NO
+ 0357 013089 ROJAS MENDOZA ANDREA ELIZABETH             20.320    35.630    55.950     282.268      MEDICINA                    NO
+ 0358 037863 TICLLA MONTENEGRO ANGIE PAMELA             23.395    31.601    54.996     282.268      MEDICINA                    NO
+ 0359 060303 SALAZAR LUNA LUIS SAMUEL                   19.319    35.675    54.994     282.268      MEDICINA                    NO
+ 0360 066102 SALDAÑA DAVILA ZAIRA ESTHEFANY             25.433    29.554    54.987     282.268      MEDICINA                    NO
+ 0361 052019 TAPIA REVILLA GENESIS ROSA DE LOS ANGELE   24.408    30.565    54.973     282.268      MEDICINA                    NO
+ 0362 026014 PEÑA HUAMAN ALEXIA MAGDALENA               21.351    33.618    54.969     282.268      MEDICINA                    NO
+ 0363 052146 RUBIO PAREDES DANNA ANDRELIZ               29.491    25.445    54.936     282.268      MEDICINA                    NO
+ 0364 045107 VASQUEZ PALMA KARLA PAOLA                  43.739    11.196    54.935     282.268      MEDICINA                    NO
+ 0365 058595 RAMOS GOICOCHEA ROONEY MICHAEL             26.434    28.493    54.927     282.268      MEDICINA                    NO
+ 0366 013271 TANTALEAN PORTILLA TATIANA PAOLA           20.350    33.638    53.988     282.268      MEDICINA                    NO
+ 0367 050575 CANTUARIAS VARGAS ALEJANDRINA LISSIE       27.465    26.511    53.976     282.268      MEDICINA                    NO
+ 0368 013647 ZAVALETA CASTILLO JOHNNY CHRISTOPHER       23.395    30.580    53.975     282.268      MEDICINA                    NO
+ 0369 017047 BAUTISTA QUEZADA MAYTTE SOFIA              31.535    22.432    53.967     282.268      MEDICINA                    NO
+ 0370 061908 RODRIGUEZ QUINTANA JADE SUMYKO             15.243    38.723    53.966     282.268      MEDICINA                    NO
+ 0371 040244 VALDERRAMA MESTANZA JONEL JUNIOR           12.186    41.776    53.962     282.268      MEDICINA                    NO
+ 0372 031498 VEGA SANCHEZ JENNIFER LARISSA ANDREA       26.446    27.502    53.948     282.268      MEDICINA                    NO
+ 0373 034947 PEDRAZA HUAMAN DAYARA YASSMIN              27.453    26.471    53.924     282.268      MEDICINA                    NO
+ 0374 079492 TUÑOQUE VILLAR JIMENA ANAHI                33.555    20.340    53.895     282.268      MEDICINA                    NO
+ 0375 035742 MEDINA BAZAN KARLA JOAQUINA                18.312    34.664    52.976     282.268      MEDICINA                    NO
+ 0376 037752 CAMPOS VERA ARIANA FERNANDA                12.192    40.760    52.952     282.268      MEDICINA                    NO
+ 0377 003809 RODRIGUEZ GORDILLO KENT                    28.478    24.449    52.927     282.268      MEDICINA                    NO
+ 0378 036015 VILLANUEVA MOZO MARIA                      28.472    24.444    52.916     282.268      MEDICINA                    NO
+ 0379 023925 SANDOVAL VALERA LUANA NASHIRA              25.409    27.472    52.881     282.268      MEDICINA                    NO
+ 0380 017763 TERRONES VALLE LAYLA FABIANA               19.319    32.612    51.931     282.268      MEDICINA                    NO
+ 0381 027379 RUIZ PAISIG KAREN JHOANNA                  23.389    28.533    51.922     282.268      MEDICINA                    NO
+ 0382 062442 COTOS SANDOVAL YAMILETH ARACELY            33.567    18.338    51.905     282.268      MEDICINA                    NO
+ 0383 051683 PLACENCIA SILVA DARWIN ALEXANDER           20.326    31.576    51.902     282.268      MEDICINA                    NO
+ 0384 077293 SANCHEZ BARTUREN HILDA PATRICIA            21.339    30.550    51.889     282.268      MEDICINA                    NO
+ 0385 069664 AGREDA TERRONES ELQUI JOHNNY               19.319    31.591    50.910     282.268      MEDICINA                    NO
+ 0386 028812 CHERO ATTO CARLOS GABRIEL                  20.344    30.565    50.909     282.268      MEDICINA                    NO
+ 0387 003842 MORALES CISNEROS AIMY MAYLIN               21.345    29.534    50.879     282.268      MEDICINA                    NO
+ 0388 027637 VERGARA REYNA ARTURO NICOLAS               10.142    40.730    50.872     282.268      MEDICINA                    NO
+                                               UNIVERSIDAD NACIONAL DE TRUJILLO - UNT
+ OF.DE TECNOLOG.DE LA INFOR.                    EXAMEN DE ADMISION ORDINARIO 2023-I                                        Pag. 11
+       * AREA P.A.D.*                           QUINTO GRADO DE EDUCACION SECUNDARIA                                       21/10/2022
+                                       RESULTADOS POR ESCUELA ACADEMICO PROFESIONAL - AREA - A
+ ======================================================================================================================================
+ OR-  CARNET      APELLIDOS  y  NOMBRES                PTJE APT    PTJE    PUNTAJE     ULTIMO          ESCUELA               ALCANZA
+ DEN                                                    ACADEM    CONOC.    TOTAL    INGRESANTE                              VACANTE
+ ======================================================================================================================================
+ 0389 038461 HUERTAS ALCALDE MILAGROS ANTUANE           20.326    30.545    50.871     282.268      MEDICINA                    NO
+ 0390 018394 CARBAJAL QUIÑONES JHONY SEBASTIAN          20.320    30.530    50.850     282.268      MEDICINA                    NO
+ 0391 078023 JUAREZ TORIBIO NAIM RODRIGO                35.587    15.255    50.842     282.268      MEDICINA                    NO
+ 0392 066555 DELGADO BECERRA CRISTI ANAHI               35.587    15.235    50.822     282.268      MEDICINA                    NO
+ 0393 043029 ABANTO CACEDA LIDIA NATALI                 35.587    15.230    50.817     282.268      MEDICINA                    NO
+ 0394 069799 FLORES BERRIOS JHON ESLEYTHER              42.714     8.103    50.817     282.268      MEDICINA                    NO
+ 0395 067288 OLIVARES ROSALES NAOMI KRISTEL             35.587    15.230    50.817     282.268      MEDICINA                    NO
+ 0396 050371 ARTEAGA NEVADO MANUEL                      40.676    10.130    50.806     282.268      MEDICINA                    NO
+ 0397 062432 TENORIO PEREZ HEIDY ALEJANDRINA             9.135    40.770    49.905     282.268      MEDICINA                    NO
+ 0398 019691 PAREDES BURGOS NOELIA  PAOLA               22.376    27.522    49.898     282.268      MEDICINA                    NO
+ 0399 005866 VARGAS CARRASCO PRISCILA YOLANDA           22.370    27.512    49.882     282.268      MEDICINA                    NO
+ 0400 055262 ALFARO MONTEJO PAOLA MARICE                21.357    28.523    49.880     282.268      MEDICINA                    NO
+ 0401 006026 OBESO HURTADO RICARDO MANUEL               17.281    32.592    49.873     282.268      MEDICINA                    NO
+ 0402 014293 RIOS RIOS RAFAEL BERNABE                   22.370    27.502    49.872     282.268      MEDICINA                    NO
+ 0403 077656 BECERRA ISLA ERICK JOSE                    26.440    23.408    49.848     282.268      MEDICINA                    NO
+ 0404 017665 VARGAS SALIRROSAS OMAR ALEXIS              19.307    30.535    49.842     282.268      MEDICINA                    NO
+ 0405 059252 IBAÑEZ GARCIA NAOMI YARELY                 27.447    22.372    49.819     282.268      MEDICINA                    NO
+ 0406 078477 LEON ALFARO ISIS ARIADNA ESTRELLA          19.325    29.559    48.884     282.268      MEDICINA                    NO
+ 0407 059745 LLANOS DELGADO CAMILA CECILIA              26.452    22.427    48.879     282.268      MEDICINA                    NO
+ 0408 008395 IBAÑEZ VALLEJO VANNIA LASEL                15.243    33.633    48.876     282.268      MEDICINA                    NO
+ 0409 031804 TANDAYPAN NUÑEZ SEBASTIAN JESUS            24.414    24.459    48.873     282.268      MEDICINA                    NO
+ 0410 040196 ARCE VASQUEZ ILDA JHAZMIN                  29.491    19.334    48.825     282.268      MEDICINA                    NO
+ 0411 057903 ESPINOZA RONDO LINA JAHAIRA                26.434    22.387    48.821     282.268      MEDICINA                    NO
+ 0412 042709 MARTIN BENITES MATIAS ALONSO               26.428    22.392    48.820     282.268      MEDICINA                    NO
+ 0413 064513 GONZALEZ MONJA ILUMINADA MILAGROS          22.370    25.470    47.840     282.268      MEDICINA                    NO
+ 0414 019865 MUÑOZ YALLE DANIELA ALEXANDRA              23.389    24.449    47.838     282.268      MEDICINA                    NO
+ 0415 073418 ANAYA GOMEZ XIMENA CAROLINA                27.447    20.330    47.777     282.268      MEDICINA                    NO
+ 0416 016706 QUISPE HURTADO STEFHANY YADHIRA            27.471    19.369    46.840     282.268      MEDICINA                    NO
+ 0417 026392 CABANILLAS REBAZA ANDERSON JAREN           25.433    21.406    46.839     282.268      MEDICINA                    NO
+ 0418 069593 GONZALES VIGO SHANTAL ELVIRA                6.084    40.745    46.829     282.268      MEDICINA                    NO
+ 0419 005784 VASQUEZ CHILON OSCAR DIEGO                 13.205    33.618    46.823     282.268      MEDICINA                    NO
+ 0420 064948 RIMARACHIN CARRANZA LEONARDO FABIAN        13.205    33.613    46.818     282.268      MEDICINA                    NO
+ 0421 050991 CASAS TANTARICO ERIKA NICOL                15.243    31.571    46.814     282.268      MEDICINA                    NO
+ 0422 065312 ALVAREZ BURGOS ENZZO ANTENOR               30.510    16.271    46.781     282.268      MEDICINA                    NO
+ 0423 065276 GONZALES ROSALES SHARON ALLISON            33.561    13.213    46.774     282.268      MEDICINA                    NO
+ 0424 056526 ALCANTARA RAMOS ESTHEFANY XIOMARA           9.141    36.691    45.832     282.268      MEDICINA                    NO
+ 0425 010293 VALDERRAMA TAFUR GREISY GIORGETHE          31.535    14.274    45.809     282.268      MEDICINA                    NO
+ 0426 067679 CHIROQUE ASMAT RICARDO GIANLUIGI           22.370    23.428    45.798     282.268      MEDICINA                    NO
+ 0427 014505 REYES ILDEFONSO FERNANDO JOSE              11.167    34.629    45.796     282.268      MEDICINA                    NO
+ 0428 010112 MUÑOZ BERMEJO MERITA BELEN                 10.142    35.630    45.772     282.268      MEDICINA                    NO
+ 0429 028783 RODRIGUEZ CASTILLO RODRIGO FABIANO         20.320    25.430    45.750     282.268      MEDICINA                    NO
+ 0430 078535 REYES LOYAGA JAZMIN YAMILE                 25.409    20.330    45.739     282.268      MEDICINA                    NO
+ 0431 001761 DE LA CRUZ SALVATIERRA RICK JORDIN GUILL    6.090    38.733    44.823     282.268      MEDICINA                    NO
+ 0432 006512 CARRANZA CALDERON AYLEEN YASSIRA           12.198    32.607    44.805     282.268      MEDICINA                    NO
+ 0433 033134 MEDINA ALTAMIRANO MEDALY MARICIELO         13.211    31.571    44.782     282.268      MEDICINA                    NO
+ 0434 076861 PERALTA QUIROZ JORGE LUIS                  11.173    33.598    44.771     282.268      MEDICINA                    NO
+ 0435 063056 YBAÑEZ QUIPUSCOA LENNI LIZBETH             16.262    27.502    43.764     282.268      MEDICINA                    NO
+ 0436 066221 LAIZA TANDAIPAN ROMINA MAXSENI             16.262    27.502    43.764     282.268      MEDICINA                    NO
+ 0437 028423 GORDILLO GERONIMO XIOMARA BRIGGITTE        16.262    27.497    43.759     282.268      MEDICINA                    NO
+ 0438 065059 COSTILLA GARCIA ANDERSON SEBASTHIAN        19.313    24.429    43.742     282.268      MEDICINA                    NO
+                                               UNIVERSIDAD NACIONAL DE TRUJILLO - UNT
+ OF.DE TECNOLOG.DE LA INFOR.                    EXAMEN DE ADMISION ORDINARIO 2023-I                                        Pag. 12
+       * AREA P.A.D.*                           QUINTO GRADO DE EDUCACION SECUNDARIA                                       21/10/2022
+                                       RESULTADOS POR ESCUELA ACADEMICO PROFESIONAL - AREA - A
+ ======================================================================================================================================
+ OR-  CARNET      APELLIDOS  y  NOMBRES                PTJE APT    PTJE    PUNTAJE     ULTIMO          ESCUELA               ALCANZA
+ DEN                                                    ACADEM    CONOC.    TOTAL    INGRESANTE                              VACANTE
+ ======================================================================================================================================
+ 0439 056183 REYES AVELLANEDA SULLEY DE MARIA           18.288    25.435    43.723     282.268      MEDICINA                    NO
+ 0440 004206 REYES CABRERA BETTZY ESTRELLITA LUZYMAR    13.217    29.564    42.781     282.268      MEDICINA                    NO
+ 0441 050394 VERGARA RODRIGUEZ ERNESTO RAUL             13.205    29.529    42.734     282.268      MEDICINA                    NO
+ 0442 058283 PEÑA RIOS KENNEDY                           9.129    33.603    42.732     282.268      MEDICINA                    NO
+ 0443 051504 PEREZ CRUZ ANGELINA DANNA VICTORIA         21.345    21.366    42.711     282.268      MEDICINA                    NO
+ 0444 009704 RODRIGUEZ FERNANDEZ MARIA GUADALUPE         9.147    32.612    41.759     282.268      MEDICINA                    NO
+ 0445 014466 RODRIGUEZ NARCIZO GIANELLA ROCIO           27.459    14.234    41.693     282.268      MEDICINA                    NO
+ 0446 017772 GIRON SANTOS GIANCARLO                      9.147    31.591    40.738     282.268      MEDICINA                    NO
+ 0447 066743 GOMEZ NINAQUISPE AMGHELY NICOL             19.319    21.406    40.725     282.268      MEDICINA                    NO
+ 0448 026327 CABRERA RUIZ SOLANSH NORMA DEL CARMEN      16.268    24.444    40.712     282.268      MEDICINA                    NO
+ 0449 010916 BARRETO LOZANO LEYDY KATHERINNE            20.332    20.355    40.687     282.268      MEDICINA                    NO
+ 0450 063153 AVALOS REYES YHORDAN ZAUL                  12.180    28.503    40.683     282.268      MEDICINA                    NO
+ 0451 079483 SOLANO SALAZAR ARIANA CRYSTAL              26.440    14.234    40.674     282.268      MEDICINA                    NO
+ 0452 070158 RODRIGUEZ NAVARRO JORDIE JAREN             15.231    25.430    40.661     282.268      MEDICINA                    NO
+ 0453 012346 AZNARAN CHICO FABIOLA ALEXANDRA            18.312    21.411    39.723     282.268      MEDICINA                    NO
+ 0454 073002 RODRIGUEZ VARA ANDRE ZAMIR                 31.523     8.098    39.621     282.268      MEDICINA                    NO
+ 0455 078381 SILVA IPARRAGUIRRE BETTY JANNETH           19.325    19.369    38.694     282.268      MEDICINA                    NO
+ 0456 013673 LOJE RUIZ ALONDRA DE KASSANDRA             23.395    15.265    38.660     282.268      MEDICINA                    NO
+ 0457 042737 VELASQUEZ SILVESTRE JARUMY YAMILET         23.383    15.265    38.648     282.268      MEDICINA                    NO
+ 0458 012681 UCEDA QUEZADA DANIELA ABIGAIL               9.147    28.538    37.685     282.268      MEDICINA                    NO
+ 0459 045505 VALERA NAVEZ KIARA RUBI                    29.491     8.098    37.589     282.268      MEDICINA                    NO
+ 0460 010071 ZUMARAN RODRIGUEZ JENNIFFER ALEXIA         13.217    23.438    36.655     282.268      MEDICINA                    NO
+ 0461 044414 AVELLANEDA LEON TANY VALERIA               18.306    18.338    36.644     282.268      MEDICINA                    NO
+ 0462 039355 SAAVEDRA CHAMAYA ARIADNA BELEN             10.154    26.476    36.630     282.268      MEDICINA                    NO
+ 0463 072345 BALAREZO CASTAÑEDA ANGELICA NAYELY         13.205    23.403    36.608     282.268      MEDICINA                    NO
+ 0464 008728 VILLALTA MONION FABIANA VALENTINA          20.326    16.276    36.602     282.268      MEDICINA                    NO
+ 0465 017262 ESTEBAN INOQUIO XIOMARA DEL ROSARIO         5.053    30.530    35.583     282.268      MEDICINA                    NO
+ 0466 044948 CUCHUPOMA CABRERA YUDITH PAMELA            10.142    25.430    35.572     282.268      MEDICINA                    NO
+ 0467 074364 PELAEZ REGALADO EINAR ALEJANDRO            30.510     5.055    35.565     282.268      MEDICINA                    NO
+ 0468 016585 LAVADO RODRIGUEZ JOSE MARCELO              18.312    16.316    34.628     282.268      MEDICINA                    NO
+ 0469 025514 CRUZ BERMUDEZ ARIANA ANGHELIT              13.217    21.396    34.613     282.268      MEDICINA                    NO
+ 0470 036148 GUEVARA VILCHEZ LEYDI BEATRIZ               9.141    25.460    34.601     282.268      MEDICINA                    NO
+ 0471 011404 REQUENA CHAVEZ HELEN CAROL                  5.065    29.534    34.599     282.268      MEDICINA                    NO
+ 0472 028824 ESPINOZA GOMERO JAIME FERNANDO              6.072    28.493    34.565     282.268      MEDICINA                    NO
+ 0473 021107 ROJAS DIAZ ALEX FERNANDO                   17.275    17.272    34.547     282.268      MEDICINA                    NO
+ 0474 044722 CUBAS CABRERA ALEXANDRA YAMILETH            8.128    25.480    33.608     282.268      MEDICINA                    NO
+ 0475 063494 DOMINGUEZ RODRIGUEZ ANGEL EUGENIO           8.128    25.470    33.598     282.268      MEDICINA                    NO
+ 0476 063545 ZUÑIGA VELASQUEZ BENJAMIN MIZAEL            8.128    25.470    33.598     282.268      MEDICINA                    NO
+ 0477 030636 TORREALVA AJALCRIÑA ANA LUCIA              18.306    15.290    33.596     282.268      MEDICINA                    NO
+ 0478 005748 REYES VALLE ESTEFANY                       10.154    23.413    33.567     282.268      MEDICINA                    NO
+ 0479 062184 MEDINA DELGADO YERAY DAVID                  3.021    29.534    32.555     282.268      MEDICINA                    NO
+ 0480 023272 ESTRELLA REYNA GUSTAVO RODRIGO             21.357    11.196    32.553     282.268      MEDICINA                    NO
+ 0481 015039 ULLOA REYES ERBER OLGER                    -0.036    32.572    32.536     282.268      MEDICINA                    NO
+ 0482 053456 ABANTO MIRANDA NICOLLE JAMILETH            14.218    18.308    32.526     282.268      MEDICINA                    NO
+ 0483 017564 CALDERON GAITAN OLGA SAYURI                15.255    16.301    31.556     282.268      MEDICINA                    NO
+ 0484 044104 ZARE CHAVEZ GIULIANA ISABEL                 9.135    22.417    31.552     282.268      MEDICINA                    NO
+ 0485 068678 VELASQUEZ RODRIGUEZ ANGHELO BRAYAN         18.288    13.203    31.491     282.268      MEDICINA                    NO
+ 0486 017447 ALVARADO SANCHEZ DAYANA BRIGITH            29.491     1.997    31.488     282.268      MEDICINA                    NO
+ 0487 015186 COSAVALENTE CRESPO ISABELITA YOVANNA       17.293    13.248    30.541     282.268      MEDICINA                    NO
+ 0488 066326 TERRONES GUTIERREZ ANGIE GIANELLA           5.059    25.465    30.524     282.268      MEDICINA                    NO
+                                               UNIVERSIDAD NACIONAL DE TRUJILLO - UNT
+ OF.DE TECNOLOG.DE LA INFOR.                    EXAMEN DE ADMISION ORDINARIO 2023-I                                        Pag. 13
+       * AREA P.A.D.*                           QUINTO GRADO DE EDUCACION SECUNDARIA                                       21/10/2022
+                                       RESULTADOS POR ESCUELA ACADEMICO PROFESIONAL - AREA - A
+ ======================================================================================================================================
+ OR-  CARNET      APELLIDOS  y  NOMBRES                PTJE APT    PTJE    PUNTAJE     ULTIMO          ESCUELA               ALCANZA
+ DEN                                                    ACADEM    CONOC.    TOTAL    INGRESANTE                              VACANTE
+ ======================================================================================================================================
+ 0489 066164 PITOTT BARRETO ANDREA SOFIA                11.173    19.344    30.517     282.268      MEDICINA                    NO
+ 0490 072869 PAREDES PANTOJA LUIS FERNANDO              14.230    16.281    30.511     282.268      MEDICINA                    NO
+ 0491 070676 CHAVEZ LLANOS EMILY FERNANDA ELIZABETH     20.332    10.165    30.497     282.268      MEDICINA                    NO
+ 0492 070728 TELLO RODRIGUEZ REINHARD SEGUNDO           35.587    -5.170    30.417     282.268      MEDICINA                    NO
+ 0493 063872 ROMERO CHIRINOS MELISSA YAMILE              3.033    26.481    29.514     282.268      MEDICINA                    NO
+ 0494 063676 SEVILLA RODRIGUEZ DIEGO NEKER               9.141    20.370    29.511     282.268      MEDICINA                    NO
+ 0495 004099 MIÑANO ROMERO YADITZA  YASURI              19.319    10.175    29.494     282.268      MEDICINA                    NO
+ 0496 079626 ABARCA RIMAC YANELA KEITH                   6.072    23.393    29.465     282.268      MEDICINA                    NO
+ 0497 077903 VASQUEZ ALMIRANTE CAMILLA YOHANA           14.218    15.240    29.458     282.268      MEDICINA                    NO
+ 0498 019189 RIOS VALERIANO ALEJANDRO SEBASTIAN          4.052    24.454    28.506     282.268      MEDICINA                    NO
+ 0499 008156 FERNANDEZ CRUZADO GREGORY ALEXANDER        -3.075    31.566    28.491     282.268      MEDICINA                    NO
+ 0500 027673 BLACIDO TOLENTINO NAHIARA ANTUANETT        36.612    -8.213    28.399     282.268      MEDICINA                    NO
+ 0501 005195 JARA ARMAS ALEXANDER FRAN LUIS             17.275    10.150    27.425     282.268      MEDICINA                    NO
+ 0502 078196 FERNANDEZ COLLANTES BRENDA NICOLE          22.358     5.040    27.398     282.268      MEDICINA                    NO
+ 0503 029356 VASQUEZ ESPINOZA SERGIO RAFAEL             23.377     3.013    26.390     282.268      MEDICINA                    NO
+ 0504 067002 VEGA FERNANDEZ FABRIZIO ELEAZAR            20.326     6.061    26.387     282.268      MEDICINA                    NO
+ 0505 079058 CRISANTO MARIN ANGIE PAMELA                 6.090    19.344    25.434     282.268      MEDICINA                    NO
+ 0506 004408 MECHATO PRADO YAJAIRA ELIDA                -6.138    31.566    25.428     282.268      MEDICINA                    NO
+ 0507 030406 NARVAEZ MIRANDA NAYHELY JAZMIN             15.249    10.175    25.424     282.268      MEDICINA                    NO
+ 0508 051673 GUTIERREZ MIRANDA JHOLLY ANGELMIRO         10.142    15.235    25.377     282.268      MEDICINA                    NO
+ 0509 028924 CABANILLAS CASTAÑEDA ETHEL JULIET          27.453    -2.092    25.361     282.268      MEDICINA                    NO
+ 0510 067267 BAZAN DOMINGUEZ MARIAJOSE ESTELITA         20.320     5.030    25.350     282.268      MEDICINA                    NO
+ 0511 065334 CABREJOS GAVIDIA ATENAS ABRIL              10.148    13.213    23.361     282.268      MEDICINA                    NO
+ 0512 019991 PORTILLA SANCHEZ FATIMA ANA ESTHER          6.072    14.214    20.286     282.268      MEDICINA                    NO
+ 0513 074062 SILVA DIAZ ESTRELLITA DE MARIA             20.320    -0.070    20.250     282.268      MEDICINA                    NO
+ 0514 023299 CASANOVA BERMUDEZ LUIS ANGEL CRISTOFHER     2.002    17.292    19.294     282.268      MEDICINA                    NO
+ 0515 005992 LINARES YUPANQUI FERNANDO ENRIQUE           0.983    18.298    19.281     282.268      MEDICINA                    NO
+ 0516 065355 CHILON ROJAS RUTH YAKILYN                  11.161     5.035    16.196     282.268      MEDICINA                    NO
+ 0517 036543 GAMBOA REBAZA CARMEN ANGELICA              25.409    -9.249    16.160     282.268      MEDICINA                    NO
+ 0518 060491 PIÑAS CARRASCO LUCERO DE LOS ANGELES        7.121     8.158    15.279     282.268      MEDICINA                    NO
+ 0519 008914 MONTEZA DAVALOS CRISTHIAN JARETH           14.236     1.011    15.247     282.268      MEDICINA                    NO
+ 0520 073906 PAREDES ESQUIVEL LEONARDO JEAN PIERE       10.166     5.070    15.236     282.268      MEDICINA                    NO
+ 0521 072916 FLORES COSAVALENTE GABRIEL FERNANDO         2.014    13.218    15.232     282.268      MEDICINA                    NO
+ 0522 019906 QUIROZ DIAZ CLEYSA ANTONELA                 8.116     7.112    15.228     282.268      MEDICINA                    NO
+ 0523 001117 CASANA VILLA CIELO BRIGITH                  8.116     5.050    13.166     282.268      MEDICINA                    NO
+ 0524 073518 VILLAR LIÑAN NEISSER                        3.027     8.123    11.150     282.268      MEDICINA                    NO
+ 0525 045262 PRETEL QUILCAT DALMA JIMENA                11.161    -1.071    10.090     282.268      MEDICINA                    NO
+ 0526 065223 ARAUJO ALVAREZ ANA PAULA                   13.205    -3.118    10.087     282.268      MEDICINA                    NO
+ 0527 003352 ULLOA CHAPOÑAN SEBASTIAN CESAR              5.053     5.030    10.083     282.268      MEDICINA                    NO
+ 0528 024699 ARROYO BASILIO DAYANA CAROLINA              5.053     5.030    10.083     282.268      MEDICINA                    NO
+ 0529 020781 VELASQUEZ GONZALES JUAN JESUS ESTEFANO     15.231    -5.170    10.061     282.268      MEDICINA                    NO
+ 0530 018444 CHAVEZ GUTIERREZ LUIS ENRIQUE               2.020     7.102     9.122     282.268      MEDICINA                    NO
+ 0531 049672 ALVITES CABANILLAS DAYERLI                -10.214    18.293     8.079     282.268      MEDICINA                    NO
+ 0532 074883 GONZALES CHUQUILIN BRIGHIT NICOL           16.256    -8.203     8.053     282.268      MEDICINA                    NO
+ 0533 064189 ZURITA SAAVEDRA MAHOLI BRILLID              5.053     1.972     7.025     282.268      MEDICINA                    NO
+ 0534 030709 CORONADO MONSALVE LEONARDO JUAN             2.014     4.039     6.053     282.268      MEDICINA                    NO
+ 0535 050507 MARQUINA ANAYA KEYSI ELENA                  7.109    -2.057     5.052     282.268      MEDICINA                    NO
+ 0536 079797 CONTRERAS ROBLES KEEGHYT DAYANA            15.231   -12.307     2.924     282.268      MEDICINA                    NO
+ 0537 073998 CUSMA CELIS MARCOS ARTURO LEOMAR            0.000     0.000     0.000     282.268      MEDICINA                 AUSENTE
+ 0538 001538 NIÑO PALACIOS ELIZABETH LIZETH              0.000     0.000     0.000     282.268      MEDICINA                 AUSENTE
+                                               UNIVERSIDAD NACIONAL DE TRUJILLO - UNT
+ OF.DE TECNOLOG.DE LA INFOR.                    EXAMEN DE ADMISION ORDINARIO 2023-I                                        Pag. 14
+       * AREA P.A.D.*                           QUINTO GRADO DE EDUCACION SECUNDARIA                                       21/10/2022
+                                       RESULTADOS POR ESCUELA ACADEMICO PROFESIONAL - AREA - A
+ ======================================================================================================================================
+ OR-  CARNET      APELLIDOS  y  NOMBRES                PTJE APT    PTJE    PUNTAJE     ULTIMO          ESCUELA               ALCANZA
+ DEN                                                    ACADEM    CONOC.    TOTAL    INGRESANTE                              VACANTE
+ ======================================================================================================================================
+ 0539 049289 CARRASCO HUAMAN ALEXIA BACHILET             0.000     0.000     0.000     282.268      MEDICINA                 AUSENTE
+ 0540 054457 CRUZ ROQUE JOHN NILO                        0.000     0.000     0.000     282.268      MEDICINA                 ANULADO
+ 0541 019077 TAMAYO RODRIGUEZ KORAIMA PAMELA             0.000     0.000     0.000     282.268      MEDICINA                 AUSENTE
+ 0542 001089 RIVERA FLORES HEYDE HAYDEE                  0.000     0.000     0.000     282.268      MEDICINA                 AUSENTE
+ 0543 024597 SOPLAPUCO TAVARA INDIRA BELEN               0.000     0.000     0.000     282.268      MEDICINA                 AUSENTE
+ 0544 038516 CAIPO RODRIGUEZ DANNA  MILENE               0.000     0.000     0.000     282.268      MEDICINA                 AUSENTE
+ 0545 011596 RAMOS ARANA ESTHER                        -11.215     0.981   -10.234     282.268      MEDICINA                    NO
+
+
+
+ 0001 012586 YSLA GAITAN VICTOR AUGUSTO                 69.184    70.344   139.528      78.404      MICROBIOL.y PARAS.          SI
+ 0002 006164 ADRIANZEN TOLENTINO BRUNO ENRIQUE          48.828    72.391   121.219      78.404      MICROBIOL.y PARAS.          SI
+ 0003 015514 DIAZ GONZALEZ JOAQUIN HERIBERTO            27.453    84.598   112.051      78.404      MICROBIOL.y PARAS.          SI
+ 0004 039282 GUEVARA ALARCON XIOMARA DEL MILAGRO        29.497    68.317    97.814      78.404      MICROBIOL.y PARAS.          NO
+ 0005 074077 NOVOA DE LA VEGA MARIELA ANGELICA          20.320    71.330    91.650      78.404      MICROBIOL.y PARAS.          NO
+ 0006 030833 SALAZAR ANDRADE ARIANA MERCEDES            32.554    44.854    77.408      78.404      MICROBIOL.y PARAS.          NO
+ 0007 012395 SORIA LOPEZ SAMANTA SABRINA                24.402    51.976    76.378      78.404      MICROBIOL.y PARAS.          NO
+ 0008 071897 TASILLA VARGAS BRUNO VALENTY               32.554    40.780    73.334      78.404      MICROBIOL.y PARAS.          NO
+ 0009 076684 VERA COTRINA CAMILA JENNIFER               27.471    43.833    71.304      78.404      MICROBIOL.y PARAS.          NO
+ 0010 055646 SANCHEZ VERGARAY JHULISSA ROSALUZ          50.854    20.330    71.184      78.404      MICROBIOL.y PARAS.          NO
+ 0011 003019 PAREDES ZELADA RAI FERNANDO                24.414    37.727    62.141      78.404      MICROBIOL.y PARAS.          NO
+ 0012 027598 JAVE CONCEPCION MILADY GERALDINE           27.465    32.622    60.087      78.404      MICROBIOL.y PARAS.          NO
+ 0013 067459 CRUZ ZAVALETA JOAN IMANOL                  30.516    24.459    54.975      78.404      MICROBIOL.y PARAS.          NO
+ 0014 051414 BASAURI NIMA SELENE VALENTINA              29.503    24.459    53.962      78.404      MICROBIOL.y PARAS.          NO
+ 0015 036597 LUCIANO CARBAJAL LIZ MARIANELA             14.224    33.623    47.847      78.404      MICROBIOL.y PARAS.          NO
+ 0016 079418 CHAUPE VARGAS FABIANA TAMARA               23.395    24.449    47.844      78.404      MICROBIOL.y PARAS.          NO
+ 0017 032499 ESQUIVEL PAREDES GIANELLA MILEY            22.370    25.455    47.825      78.404      MICROBIOL.y PARAS.          NO
+ 0018 070561 DIAZ ALVAREZ TATIANA KATHERINE             21.357    23.438    44.795      78.404      MICROBIOL.y PARAS.          NO
+ 0019 028335 MANTILLA MANTILLA ANGHELINA KRISTEL        10.160    33.633    43.793      78.404      MICROBIOL.y PARAS.          NO
+ 0020 057156 MENDOZA CASTOPE DIANA MELISSA              24.414    19.364    43.778      78.404      MICROBIOL.y PARAS.          NO
+ 0021 006941 VARGAS CORDOVA ROGER DANIEL                22.382    20.390    42.772      78.404      MICROBIOL.y PARAS.          NO
+ 0022 002875 BARRANZUELA MENDOCILLA ADRIAN MAURICIO     28.478    13.253    41.731      78.404      MICROBIOL.y PARAS.          NO
+ 0023 040671 ALCALDE SANDOVAL SUSANA DEL PILAR          13.211    22.402    35.613      78.404      MICROBIOL.y PARAS.          NO
+ 0024 024801 GUTIERREZ SOLES ARIANA BELEN               26.440     6.086    32.526      78.404      MICROBIOL.y PARAS.          NO
+ 0025 030585 DE LA CRUZ CORAZAO JORDANO JAHIR           20.338     3.038    23.376      78.404      MICROBIOL.y PARAS.          NO
+
+
+
+ 0001 073499 CERNA GONZALEZ LUISA FERNANDA              15.255    21.411    36.666      30.546      BIOLOGIA PESQUERA           SI
+ 0002 067775 MARQUINA MENDOZA EFREN ALBERTO             22.364     9.149    31.513      30.546      BIOLOGIA PESQUERA           SI
+ 0003 031383 MIÑANO QUEREVALU MURIEL ELIZABETH           0.000     0.000     0.000      30.546      BIOLOGIA PESQUERA        AUSENTE
+
+
+
+ 0001 032786 RUIZ CASTRO MARIA GRAZYA                   45.765    61.130   106.895     134.460      ESTOMATOLOGIA               NO
+ 0002 005384 PASCUAL MARTELL LORENA                     25.433    77.496   102.929     134.460      ESTOMATOLOGIA               NO
+ 0003 037033 SANCHEZ CRUZ ASHLEY MARINA ESPERANZA       29.497    69.338    98.835     134.460      ESTOMATOLOGIA               NO
+ 0004 009284 CABANILLAS NORIEGA ELIZABETH CATARINE DE   34.586    61.160    95.746     134.460      ESTOMATOLOGIA               NO
+ 0005 035035 GUZMAN ALARCO THIAGO CARLOS                25.409    61.130    86.539     134.460      ESTOMATOLOGIA               NO
+ 0006 075837 PELAEZ VELASQUEZ INGRID ARIANA             29.497    55.054    84.551     134.460      ESTOMATOLOGIA               NO
+                                               UNIVERSIDAD NACIONAL DE TRUJILLO - UNT
+ OF.DE TECNOLOG.DE LA INFOR.                    EXAMEN DE ADMISION ORDINARIO 2023-I                                        Pag. 15
+       * AREA P.A.D.*                           QUINTO GRADO DE EDUCACION SECUNDARIA                                       21/10/2022
+                                       RESULTADOS POR ESCUELA ACADEMICO PROFESIONAL - AREA - A
+ ======================================================================================================================================
+ OR-  CARNET      APELLIDOS  y  NOMBRES                PTJE APT    PTJE    PUNTAJE     ULTIMO          ESCUELA               ALCANZA
+ DEN                                                    ACADEM    CONOC.    TOTAL    INGRESANTE                              VACANTE
+ ======================================================================================================================================
+ 0007 064452 VEGA MOZOMBITE JACK DAVID                  34.580    36.686    71.266     134.460      ESTOMATOLOGIA               NO
+ 0008 031703 MENDO CARDENAS JAVIERA MOSSIS              21.351    48.923    70.274     134.460      ESTOMATOLOGIA               NO
+ 0009 060363 MURGA MARCHENA ELIANA ABIGAIL              34.586    31.601    66.187     134.460      ESTOMATOLOGIA               NO
+ 0010 065991 CUEVA FERNANDEZ ARIANA MARIA               30.510    34.634    65.144     134.460      ESTOMATOLOGIA               NO
+ 0011 002128 ULLAURI DIAZ KEVINT MAURICIO               24.408    38.733    63.141     134.460      ESTOMATOLOGIA               NO
+ 0012 005909 ALDANA FLORES ANACLAUDIA                   29.497    33.638    63.135     134.460      ESTOMATOLOGIA               NO
+ 0013 008255 VASQUEZ TORRES ARIANA LEYLE ARIETTE        36.624    24.459    61.083     134.460      ESTOMATOLOGIA               NO
+ 0014 026229 MUÑOZ PORTAL TANIA SADYD                   24.402    34.629    59.031     134.460      ESTOMATOLOGIA               NO
+ 0015 066573 SALINAS VALDIVIEZO ANA CRISTINA            30.516    24.439    54.955     134.460      ESTOMATOLOGIA               NO
+ 0016 023833 SICCHA CASTILLO MARIA DE LOS ANGELES       35.599    18.328    53.927     134.460      ESTOMATOLOGIA               NO
+ 0017 012998 GUZMAN MALCA FATIMA LUCIANNA               27.465    24.454    51.919     134.460      ESTOMATOLOGIA               NO
+ 0018 030917 CHAVEZ CHAVEZ LUZ MARIA FERNANDA           22.358    29.519    51.877     134.460      ESTOMATOLOGIA               NO
+ 0019 012461 AMPUERO TELLO DAFNE KOSSET                 35.587    15.230    50.817     134.460      ESTOMATOLOGIA               NO
+ 0020 058829 ROJAS VILLACORTA FATIMA DE LOS ANGELES     19.319    30.575    49.894     134.460      ESTOMATOLOGIA               NO
+ 0021 011149 DE LA CRUZ CARRASCO JIMENA ELIZABETH       28.478    21.406    49.884     134.460      ESTOMATOLOGIA               NO
+ 0022 061771 ARROYO JUSTINIANO SERGIO FABRICIO          15.249    33.638    48.887     134.460      ESTOMATOLOGIA               NO
+ 0023 011582 MORETO CORONEL AXEL JHAIR                  27.459    17.327    44.786     134.460      ESTOMATOLOGIA               NO
+ 0024 015988 CELI ALVA MONICA XIMENA                    26.440    15.280    41.720     134.460      ESTOMATOLOGIA               NO
+ 0025 073213 RODRIGUEZ LIVAQUE HENRY ADDISON            10.142    30.540    40.682     134.460      ESTOMATOLOGIA               NO
+ 0026 048206 CASTRO VILLAJULCA CLAUDINA                 16.262    23.413    39.675     134.460      ESTOMATOLOGIA               NO
+ 0027 026473 AVALOS LIÑAN JENNIFHER KAROLAY             18.306    18.333    36.639     134.460      ESTOMATOLOGIA               NO
+ 0028 070449 DELGADO CAMPOS EILEEN JULIA                13.217    20.365    33.582     134.460      ESTOMATOLOGIA               NO
+ 0029 002427 TABOADA BAZAN KIARA VICTORIA DEL CARMEN    11.173    19.339    30.512     134.460      ESTOMATOLOGIA               NO
+ 0030 073648 SANCHEZ PLASENCIA JOSE MANUEL              11.185    16.306    27.491     134.460      ESTOMATOLOGIA               NO
+ 0031 060288 RODRIGUEZ ESCOBEDO NAYURI MAYLIN           15.231     6.056    21.287     134.460      ESTOMATOLOGIA               NO
+ 0032 024412 PARDO BARRIENTOS ARIANA MILAGROS            4.040    16.261    20.301     134.460      ESTOMATOLOGIA               NO
+ 0033 076081 VIGO LOZANO NIRVANA ANGILINE                9.147     6.091    15.238     134.460      ESTOMATOLOGIA               NO
+ 0034 062146 VITE FLORES JORDANO JULIAN                 11.167    -3.118     8.049     134.460      ESTOMATOLOGIA               NO
+ 0035 078015 RIVERA VASQUEZ QORIANKA GABRIELA            0.000     0.000     0.000     134.460      ESTOMATOLOGIA            AUSENTE
+ 0036 079506 SAENZ CANCHANYA ANSHELY CIELO               0.000     0.000     0.000     134.460      ESTOMATOLOGIA            AUSENTE
+ 0037 016817 CABRERA REQUELME ALEJANDRO RAFAEL          -8.170    -5.155   -13.325     134.460      ESTOMATOLOGIA               NO
+ 0038 074616 LEON HONORIO NATHALY PAOLA                  5.053   -20.470   -15.417     134.460      ESTOMATOLOGIA               NO
+  ************************************************************************************************************************************
+  Nro TOTAL DE POSTULANTES ====>                             714
